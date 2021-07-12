@@ -30,7 +30,7 @@ Used cartridges are cleaned, refilled with ink/toner, refitted with a new ink/to
 3. Selling cartridges through our strategic partners covering all 36 states in Nigeria. 
 Our products do not add to the waste management burden on our clients, as we offer incentives and buy back schemes to retrieve used cartridges for remanufacturing.
 
-Our unique selling proposition is as follows:
+Our unique selling proposition:
 1. **Lowest price** as our production costs are low - we use recovered empty cartridges (that would otherwise be landfilled or incinerated), import all components in bulk and outsource packaging production to a local company. 
 Price is often the most important factor driving cartridge purchasing decisions in Nigeria.
 2. **Best quality** as we use reusable OEM components and imported components from high quality manufacturers.
