@@ -1,0 +1,20 @@
+#
+#   Navigation to the left › side: left
+#
+- title: "Logo"
+  url: "/"
+  logo: true
+  side: left
+
+- title: "About"
+  url: "/about/"
+  side: left
+
+# - title: "Projects"
+#   url: "/projects/"
+#   side: left
+#   dropdown:
+#   - title: "Stop Plastic Pollution"
+#     url: "/projects/stop-plastic-pollution/"
+#   - title: "London PyTorch Meetup"
+#     url: "/projects/london-pytorch-meetup/"

@@ -1,0 +1,15 @@
+// To be used...
+
+p {
+  margin-top: 8px;
+}
+
+// This reduces the gap between any <ul> that immediately follows a <p>. The "margin-top" of the ul
+// was already zero by default, so we apply a negative margin to pull the ul list up a bit.
+// On small screens this looked best at 10px. On larger screens 15px.
+@media #{$small-only} {
+  p + ul { margin-top: -10px; }
+}
+@media #{$medium-up} {
+  p + ul { margin-top: -15px; }
+}
