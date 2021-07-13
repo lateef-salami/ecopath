@@ -76,20 +76,20 @@ Advantages of focussing on tertiary educational institutions:
 1. It is a **large market**.
 There are 2 million students in 174 universities in Nigeria and many more in 564 other tertiary educational institutions.
 The sector is on a rapid growth trajectory, with new institutions opening every year, and for a good reason.
-Nigeria is is a young country with [43.5% of population under the age of 14][3] - that is more than 87 million young people that will be looking for education.
+Nigeria is a young country with [43.5% of population under the age of 14][3] - that is more than 87 million young people that will be looking for education.
 The literacy rate is 75% among people aged 15 to 24.
 Tertiary educational institutions are present throughout the country - about 45% of them are in capital cities of the states, 35% in other major towns, and 20% in remote towns and rural areas.
 They are not tied into long-term contracts with their cartridge suppliers. 
 Some of them have maintenance contracts with SMEs that also supply cartridges to them, but the market is open and it is common to change suppliers based on the price they can offer.
 2. It is **easy to reach** this market.
-Over 170 universities and colleges are memebrs of the [Committee of Vice-Chancelors (CVC)][5]. 
+Over 170 universities and colleges are members of the [Committee of Vice-Chancellors (CVC)][5]. 
 Over 300 polytechnics, colleges of agriculture and other technical and vocational education and training (TVET) institutions are under the management of [National Board of Technical Education (NBTE)][6].
 This means that we can access 64% of tertiary educational institutions simply by reaching out to CVC and NBTE.
 Our ink cartridges for duplicators are already being tested by CVC and they are very pleased with the high quality of our product.
 In the future we will also reach out to [National Universities Commission (NUC)][7], an umbrella body for all universities, and [Academic Staff Union of Universities (ASUU)][8].
 In contrast, Nigeria's primary schools are administered by the local governments and hence the market is much more fragmented.
 But it is a big market - there are about 97,000 primary schools (64% of them are public) and about 33,000 secondary schools (38% of them are public) - and we will be targeting this market in the future.
-3. **Price is often the deciding factor** for tertiary educational institutions, especially since present day economic challenges have lead to decrease in government budget for educational sector.
+3. **Price is often the deciding factor** for tertiary educational institutions, especially since present day economic challenges have led to decrease in government budgets for the education sector.
 Out of 738 institutions, 169 are federal government owned and 324 are state government owned.
 Since our production costs are low, we are able to offer the best price on the market while our products are also high quality and eco friendly.
 4. The market is active **all year round**, since the calendar of tertiary educational institutions in Nigeria is not unified. 
@@ -114,7 +114,7 @@ These often consist of a sole proprietor and a couple of apprentices.
 Medium-scale businesses are much less numerous compared to small-scale businesses. 
 Their operations are more formalised, and they usually employ 1-6 staff members.
 
-Vast majority of SMEs do not import the ink cartridges directly, instead they rely on OEM franchises and large-scale importers of compatible products. 
+Vast majority of SMEs do not import ink cartridges directly, instead they rely on OEM franchises and large-scale importers of compatible products. 
 The deciding factors for them are both price (to improve their profit margins) and quality as most of them also provide repair services.
 Poor quality cartridges and inks lead to increased need for repairs, which results in damage to reputation and loss of customers.
 
@@ -126,11 +126,11 @@ This means that we will be able to quickly grow our market share through referra
     <h5>Case study - Ayo Egunjobi, a typical customer</h5>
     <p>
         Highest Level of Education: Higher National Diploma in Electrical Engineering<br>
-        Ocupation: sole proprietor of an SME supplying office equipment<br>
+        Occupation: sole proprietor of an SME supplying office equipment<br>
         Job responsibilities: repairing duplicators and supplying ink cartridges<br>
         Measures of success: number of customers, number of ink cartridges sold, profit margins obtained on sales<br>
         The biggest challenge: finding high quality ink cartridges at low price<br>
-        Main source of work-realted information: networking with industry peers<br>
+        Main source of work-related information: networking with industry peers<br>
         Preferred method of communication: direct phone calls, WhatsApp and Facebook<br>
     </p>
 </div>
@@ -141,8 +141,8 @@ This means that we will be able to quickly grow our market share through referra
 Our regional sales managers will have close relationships with our existing and prospective customers in different parts of the country. 
 This will be achieved through five main channels:
 1. Currently **in person communication** is still the prevalent method to reach customers in this industry. 
-To reach SMEs we will organise in person meetings, and network at events for stakeholders in office equipment industry.
-To reach tertiary educational institutions we will scheduled product demonstrations with officials in charge of procurement, and network through umbrella bodies like [NUC][7], [ASUU][8], [CVC][5] and [NBTE][6].
+To reach SMEs we will organise in person meetings, and network at events for stakeholders in the office equipment industry.
+To reach tertiary educational institutions we will schedule product demonstrations with officials in charge of procurement, and network through umbrella bodies like [NUC][7], [ASUU][8], [CVC][5] and [NBTE][6].
 2. **Social media** platforms - WhatsApp, Facebook, Instagram and Twitter - that are popular in Nigeria.
 Through advertisement on social media platforms, and through our website and LinkedIn page we are able to reach a large segment of the market.
 This will also often be the main channel for communicating with our SME customers, since they are active on social media platforms both because it allows them to reach their customers and because it fits their highly mobile lifestyle - they spend more time visiting their customers to provide maintenance and repair services than in their offices.
@@ -150,7 +150,7 @@ This will also often be the main channel for communicating with our SME customer
 Physical mail delivered to educational institutions gets prompt attention, while marketing emails get lost in junk mail. 
 4. **Bluesky** platform of existing links and networks among SMEs.
 5. **Referrals** will also play an important role.
-We will offer 2-5% bonus to SMEs whose referred customers buy our products.
+We will offer a 2-5% bonus to SMEs whose referred customers buy our products.
 To increase our market share among tertiary educational institutions we will provide references supplied by other institutions already using our products.
 
 [1]: https://www.wecyclers.com/
