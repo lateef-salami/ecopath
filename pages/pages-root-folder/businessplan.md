@@ -13,11 +13,11 @@ widgets:
   title: Gbenga Hussein, CFO
 - image: philip-ishaku.jpg
   title: Philip Ishaku, CTO
-- image: missing_image.jpg
+- image: biodun-olanrewaju.jpg
   title: "Biodun Olanrewaju, RSM in Ibadan, Oyo State"
 - image: missing_image.jpg
   title: "Dayo Oladele, RSM in Akure, Ondo State"
-- image: missing_image.jpg
+- image: bode-onileowo.jpg
   title: "Bode Onileowo, RSM in Ado Ekiti, Ekiti State"
 
 ---
@@ -239,6 +239,7 @@ Our advisors are [Dr Karina Zile][7] and [Dr Eleftheria Egel][8].
         <b>Total:</b> USD 32,000
     </p>
 </div>
+
 
 
 ### First year
