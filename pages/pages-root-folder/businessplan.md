@@ -2,10 +2,23 @@
 layout: kz-page
 title: "Business plan"
 permalink: "/businessplan/"
-teaser: 'At Ecopath we are developing a circular economy for photocopier, printer and duplicator cartridges in Nigeria. Our mission is to provide affordable and eco-friendly ink and toner cartridges to advance industries with high demand for printouts (education, healthcare, etc.) while also reducing the amount of plastic waste generated. <br> <br> Below we explain <a href="/businessplan#problem" target="_self">what is the problem we are addressing</a>, <a href="/businessplan#solution" target="_self">what is our solution</a>, <a href="/businessplan#market" target="_self">what is our target market</a> and <a href="/businessplan#reach" target="_self">how will we reach it</a>.'
+teaser: 'At Ecopath we are developing a circular economy for photocopier, printer and duplicator cartridges in Nigeria. Our mission is to provide affordable and eco-friendly ink and toner cartridges to advance industries with high demand for printouts (education, healthcare, etc.) while also reducing the amount of plastic waste generated. Remanufacturing cartridges sounds like a simple idea, but until now it has not been done anywhere in West Africa.<br> <br> Below we explain what is <a href="/businessplan#problem" target="_self">the problem we are addressing</a>, what is <a href="/businessplan#solution" target="_self">our solution</a>, what is our <a href="/businessplan#market" target="_self">initial target market</a> and how <a href="/businessplan#reach" target="_self">we will reach it</a>.'
 subheadline: 
 meta_description: 
 header: no
+widgets:
+- image: lateef-salami.jpg
+  title: <a href="https://www.linkedin.com/in/lateef-salami/" target="_self">Lateef Salami, CEO</a> 
+- image: gbenga-hussein.jpg
+  title: Gbenga Hussein, CFO
+- image: philip-ishaku.jpg
+  title: Philip Ishaku, CTO
+- image: missing_image.jpg
+  title: "Biodun Olanrewaju, RSM in Ibadan, Oyo State"
+- image: missing_image.jpg
+  title: "Dayo Oladele, RSM in Akure, Ondo State"
+- image: missing_image.jpg
+  title: "Bode Onileowo, RSM in Ado Ekiti, Ekiti State"
 
 ---
 
@@ -19,6 +32,7 @@ Two options are available on the market - products from original equipment manuf
 OEM products are of high quality and produce high yields, but they are expensive. 
 Compatible products, usually from China, are more affordable, but their quality is inconsistent, their yields are lower and they sometimes include toxic components.
 In both cases, once the cartridges are empty, they are disposed of together with the rest of unsorted waste, causing a detrimental impact on the environment.
+Due to high calorific value of cartridges they are often open burnt (thus substituting expensive kerosine) to make fire for cooking and to encourage burning of other waste, thus contributing to air pollution and exposing humans to inhalation of toxic substances.
 
 
 ### <a name="solution"></a> Our solution
@@ -31,17 +45,18 @@ Used cartridges are cleaned, refilled with ink/toner, refitted with a new ink/to
 Our products do not add to the waste management burden on our clients, as we offer incentives and buy back schemes to retrieve used cartridges for remanufacturing.
 
 Our unique selling proposition:
-1. **Lowest price** as our production costs are low - we use recovered empty cartridges (that would otherwise be landfilled or incinerated), import all components in bulk and outsource packaging production to a local company. 
+1. **Lowest price** as our production costs are low. We use recovered empty cartridges (that would otherwise be landfilled or open burnt), import all components in bulk and outsource packaging production to a local company. 
 Price is often the most important factor driving cartridge purchasing decisions in Nigeria.
 2. **Best quality** as we use reusable OEM components and imported components from high quality manufacturers.
 In Nigeria, locally made products are often perceived as inferior to imported products.
 We will dispel this perception by providing samples. 
 Additionally, the fact that we import our ink from Japan, a country that is believed to produce the best quality raw materials and products, will boost customer confidence.
-2. **Non-toxic** inks and toners as we chose our suppliers with care.
+All imports from Japan in Nigeria are of best quality because "back door" imports are not possible - all products imported from Japan go through pre-shipment verification and certification by [Standards Organisation of Nigeria (SON)][13] and their partners, such as [Cotecna][11] and [SGS][12]. 
+2. **Non-toxic** inks and toners, as we chose our suppliers with care.
 We will import ink from [Wako][2], our partners in Japan, who use soya oil in manufacturing instead of petrochemicals. 
 Their ink samples are analysed in specialised laboratories to test for toxicity; a laboratory-issued certificate verifying the safety of the product is attached to every shipment.
 We will make copies of these certificates available to our customers, to compete with other compatible products that are usually not tested for toxicity to avoid extra costs.
-4. **Zero waste to landfill** as we recover our cartridges from our customers to either remanufacture or recycle them with our local partner [Wecyclers][1]. According to our partners in Japan, the same cartridge can be remanufactured 5 times before the quality starts to decline. Our packaging will be plastic free.
+4. **Zero waste to landfill** as we recover our cartridges from our customers to either remanufacture or recycle them with our local partner [Wecyclers][1]. According to our partners in Japan, the same cartridge can be remanufactured 5 times before the quality starts to decline. Our packaging will be plastic free. Most importantly, our business will contribute to significantly reducing open burning of cartridges and the associated detrimental effect on human health.
 
 Additionally, we will be making a difference by:
 <ol start="5">
@@ -51,13 +66,16 @@ Additionally, we will be making a difference by:
 	</li>
 	<li>
 		<b>Supporting local charities and educational institutions.</b>
-		We will donate an equivalent of USD 1 for every cartridge we sell. 
-		We want to support tertiary educational institutions to strengthen their research capacity and fund students from disadvantaged backgrounds, and Diabetic Association of Nigeria as diabetes rates are surging in Nigeria and many cannot afford the treatment they need.
+		Every month we will donate 5% of our profit.
+		We want to support tertiary educational institutions to strengthen their research capacity and fund students from disadvantaged backgrounds, and Diabetic Association of Nigeria, as diabetes rates are surging in Nigeria and many cannot afford the treatment they need.
 	</li>
 </ol>
 
+Our competitors are OEM franchises (for example [Ro-Marong Nigeria][9])  and large-scale importers of compatible products (for example [Dartun Technologies][10]).
+They import cartridges from China, South Africa and Dubai.
 
-### <a name="market"></a> Our target markets
+
+### <a name="market"></a> Our initial target markets
 
 Currently our main target markets are tertiary educational institutions and small and medium-sized enterprises (SMEs) that specialise in cartridge sales.
 In the future, we will expand to primary and secondary schools, healthcare institutions, financial institutions, manufacturing businesses, packaging producers, supermarkets and other retailers, tourism industry, consultancies, etc.
@@ -66,17 +84,17 @@ In the future, we will expand to primary and secondary schools, healthcare insti
 ##### Tertiary educational institutions
 
 Tertiary educational institutions in Nigeria include universities, polytechnics, monotechnics and specialized institutions, colleges of agriculture, health technology and education, vocational, innovations and technical colleges.
-Almost all educational activities in these institutions are paper based - curricula, study materials, lecture handouts and exam papers sall have to be printed for each student.
+Almost all educational activities in these institutions are paper based - curricula, study materials, lecture handouts and exam papers all have to be printed for each student.
 During the pandemic online learning was trialed with disastrous results, showing that with the present day infrastructure learning has to remain paper based.
 
-Tertiary educational institutions use duplicators for high volume printing, as they provide speed (up to 1000 copies per minute) and cost efficiency that cannot be matched by printers or photocopiers. 
+Tertiary educational institutions use duplicators for high volume printing, as they provide speed (up to 130 copies per minute) and cost efficiency that cannot be matched by printers or photocopiers. 
 Ink cartridges for duplicators are easy to clean, refill and refit with a new ink sensor.
 
 Advantages of focussing on tertiary educational institutions:
 1. It is a **large market**.
 There are 2 million students in 174 universities in Nigeria and many more in 564 other tertiary educational institutions.
 The sector is on a rapid growth trajectory, with new institutions opening every year, and for a good reason.
-Nigeria is a young country with [43.5% of population under the age of 14][3] - that is more than 87 million young people that will be looking for education.
+Nigeria is a young country with [43.5% of population under the age of 14][3] - that is more than 87 million young people who will be looking for education.
 The literacy rate is 75% among people aged 15 to 24.
 Tertiary educational institutions are present throughout the country - about 45% of them are in capital cities of the states, 35% in other major towns, and 20% in remote towns and rural areas.
 They are not tied into long-term contracts with their cartridge suppliers. 
@@ -86,7 +104,6 @@ Over 170 universities and colleges are members of the [Committee of Vice-Chancel
 Over 300 polytechnics, colleges of agriculture and other technical and vocational education and training (TVET) institutions are under the management of [National Board of Technical Education (NBTE)][6].
 This means that we can access 64% of tertiary educational institutions simply by reaching out to CVC and NBTE.
 Our ink cartridges for duplicators are already being tested by CVC and they are very pleased with the high quality of our product.
-In the future we will also reach out to [National Universities Commission (NUC)][7], an umbrella body for all universities, and [Academic Staff Union of Universities (ASUU)][8].
 In contrast, Nigeria's primary schools are administered by the local governments and hence the market is much more fragmented.
 But it is a big market - there are about 97,000 primary schools (64% of them are public) and about 33,000 secondary schools (38% of them are public) - and we will be targeting this market in the future.
 3. **Price is often the deciding factor** for tertiary educational institutions, especially since present day economic challenges have led to decrease in government budgets for the education sector.
@@ -100,8 +117,8 @@ The demand peaks during the fourth month of every semester due to exams.
 	<h5>Case Study - <a href="https://eksu.edu.ng/" target="_blank">Ekiti State University</a></h5>
 	<p>
 		Students population: 25,000<br>
-    	Semesters: two semesters, 4 months each, the first one starting in December<br>
-    	Ink cartridge requirement per semester: 80 units (assuming yield of 5,000 – 10,000 copies depending on text density)  
+    	Semesters: 2 semesters per year, 4 months each, the first one starting in December<br>
+    	Ink cartridge requirement per semester: more than 80 units  
 	</p>
 </div>
 
@@ -114,7 +131,7 @@ These often consist of a sole proprietor and a couple of apprentices.
 Medium-scale businesses are much less numerous compared to small-scale businesses. 
 Their operations are more formalised, and they usually employ 1-6 staff members.
 
-Vast majority of SMEs do not import ink cartridges directly, instead they rely on OEM franchises and large-scale importers of compatible products. 
+Vast majority of SMEs do not import ink cartridges directly, instead they rely on OEM franchises and large-scale importers of compatible products.
 The deciding factors for them are both price (to improve their profit margins) and quality as most of them also provide repair services.
 Poor quality cartridges and inks lead to increased need for repairs, which results in damage to reputation and loss of customers.
 
@@ -128,7 +145,7 @@ This means that we will be able to quickly grow our market share through referra
         Highest Level of Education: Higher National Diploma in Electrical Engineering<br>
         Occupation: sole proprietor of an SME supplying office equipment<br>
         Job responsibilities: repairing duplicators and supplying ink cartridges<br>
-        Measures of success: number of customers, number of ink cartridges sold, profit margins obtained on sales<br>
+        Measures of success: number of customers, number of ink cartridges sold, profit margins on cartridge sales<br>
         The biggest challenge: finding high quality ink cartridges at low price<br>
         Main source of work-related information: networking with industry peers<br>
         Preferred method of communication: direct phone calls, WhatsApp and Facebook<br>
@@ -136,22 +153,111 @@ This means that we will be able to quickly grow our market share through referra
 </div>
 
 
-### <a name="reach"></a> How will we reach our customers
+### <a name="reach"></a> How we will reach our customers
 
 Our regional sales managers will have close relationships with our existing and prospective customers in different parts of the country. 
 This will be achieved through five main channels:
 1. Currently **in person communication** is still the prevalent method to reach customers in this industry. 
-To reach SMEs we will organise in person meetings, and network at events for stakeholders in the office equipment industry.
-To reach tertiary educational institutions we will schedule product demonstrations with officials in charge of procurement, and network through umbrella bodies like [NUC][7], [ASUU][8], [CVC][5] and [NBTE][6].
+To reach SMEs we will organise in person meetings, and network at events for stakeholders in the office equipment industry, for example events organised by the [Association of Office Equipment Technicians of Nigeria][14].
+To reach tertiary educational institutions we will schedule product demonstrations with officials in charge of procurement, and network through umbrella bodies like [CVC][5] and [NBTE][6].
 2. **Social media** platforms - WhatsApp, Facebook, Instagram and Twitter - that are popular in Nigeria.
-Through advertisement on social media platforms, and through our website and LinkedIn page we are able to reach a large segment of the market.
+Through advertisement on social media platforms and through our website and LinkedIn page we are able to reach a large segment of the market.
 This will also often be the main channel for communicating with our SME customers, since they are active on social media platforms both because it allows them to reach their customers and because it fits their highly mobile lifestyle - they spend more time visiting their customers to provide maintenance and repair services than in their offices.
 3. **Direct mail marketing** will be used to reach officials in charge of procurement in tertiary educational institutions that cannot be reached otherwise. 
 Physical mail delivered to educational institutions gets prompt attention, while marketing emails get lost in junk mail. 
-4. **Bluesky** platform of existing links and networks among SMEs.
+4. **Bluesky Digitech** network of young professionals in office equipment industry that now covers most of the country.
 5. **Referrals** will also play an important role.
 We will offer a 2-5% bonus to SMEs whose referred customers buy our products.
-To increase our market share among tertiary educational institutions we will provide references supplied by other institutions already using our products.
+To increase our market share among tertiary educational institutions we will provide references from institutions already using our products.
+
+
+
+### What we've achieved so far
+
+...
+
+Most importantly, we've already assmebled a stellar team of talented, environemtally minded people who all share the vision of our for-purpose business.
+
+##### Our stellar team
+
+{% include _widget_grid_layout.html widgets=page.widgets articles_per_row=3 %}
+
+
+**Lateef Salami**, the founder of Ecopath, has more than 15 years of experience in the office equipment industry in Nigeria.
+Lateef's academic background is in Electrical Engineering (Higher National Diploma from The Polytechnic in Ibadan, Nigeria, 2001) and Sustainability and Environmental Management (Master's degree from University of Derby, UK, 2019).
+Lateef's career in office equipment industry began in 2004 when he joined CFAO Technologies as a Service Engineer.
+There he was responsible for maintenance and repairs of duplicators, photocopier and printer, customer relationship management, product demonstrations, training and workshops.
+
+In 2008 Lateef started Bluesky Digitech - a small informal office equipment repair consultancy. 
+The idea was to create a for-purpose business that would serve as a social empowerment platform where unemployed graduates could gain new skills for free.
+Apart from providing hands-on training to graduates, Lateef was also mentoring technicians already working in the industry, and solving knotty technical problems with office equipment which provided a source of revenue. 
+These activities made Bluesky Digitech a melting pot of novel technical solutions and ideas, and created a tight-knit network of professionals in the office equipment industry.
+
+In 2019 Lateef moved to Germany to become a research fellow at the [International Sustainability Academy (ISA)][15] and join a global network of professionals from 12 different countries.
+There he learnt about best practices in sustainability and how to build impactful startups that contribute towards reaching Sustainable Development Goals (SDGs).
+That is where the idea for Ecopath was developed.
+
+**Gbenga Hussein** is a chartered accountant and an associate member of the [Chartered Institute of Taxation of Nigeria][16].
+He has skills in financial management, strategy and change management, and experience in financial services, manufacturing and construction industries. 
+Gbenga worked with Sunflag Nigeria Limited, Haggai Mortgage Bank and Slava-Yeditepe Construction Group where he was the Head of Accounts.
+As a consultant, he has designed business development solutions for First Bank of Nigeria, Central Bank of Nigeria, Guaranty Trust Bank, Stanbic IBTC Bank, West Africa Ports Services, MainOne and Serve Consulting, to name a few.
+Gbenga is an enthusiastic person with a passion for human capital development - he coaches young people from disadvantaged backgrounds to help them realise their potential.
+
+
+**Dayo Oladele** has a background in Electrical Engineering.
+He has been consulting Bluesky Digitech team in office equipment repairs and maintenance since 2012. 
+Due to his extensive experience, he is a bit of a celebrity among repair technicians.
+Many banks, schools and hospitals in Ondo and Osun states are among his current customers.
+He is Ecopath's regional sales manager (RSM) in South-east and North-west states.
+
+**Bode Onileowo** has a background in Agricultural Economics.
+Since completing the apprenticeship at Bluesky Digitech in office equipment installation, maintenance and repairs, he has established an impressive professional network in Ekiti and Kwara states.
+Many banks and educational institutions are among his current customers.
+He is Ecopath's RSM in North and North-east states.
+
+**Biodun Olanrewaju** joined Bluesky Digitech as an apprentice in 2008.
+He has since developed a large customer base in Oyo, Ogun and Lagos states.
+He is Ecopath's RSM in South and South-west states.
+
+The only thing that is missing in our team is gender diversity. 
+This is how things are in Nigeria right now - office equipment industry is almost exclusively male dominated.
+We intend to change this by providing equal employment and training opportunities to both genders.
+We aim to have both genders represented equally in our team in the future.
+
+Our advisors are [Dr Karina Zile][7] and [Dr Eleftheria Egel][8].
+
+### Our growth plan
+
+<div class="panel radius t20">
+    <h5>Funding required</h5>
+    <p>
+        Ink refilling machine imported from <a href="http://www.wako-janibis.co.jp/english/products.html" target="_blank">Wako</a>, our partners in Japan: 6,000<br>
+        Raw materials to produce 1,800 ink cartridges: 13,000<br>
+        Workspace rent: 5,000<br>
+        Vehicle for making deliveries: 5,000<br>
+        Operational costs for the first year: 3,000<br>
+        <b>Total:</b> USD 32,000
+    </p>
+</div>
+
+
+### First year
+
+During our first year of operation we will focus on the following:
+1. Setting up a **workspace** in Lagos, the commercial capital of Nigeria, where we will be producing our products.
+2. Start producing our first **product** - remanufactured duplicator ink cartridges.
+The components required are recovered empty cartridges; ink and ink sensors imported in bulk; and packaging outsourced to a local company.
+The competition in this segment of the office equipment market is minimal, since duplicators are mostly used in educational institutions and are hence perceives as a specialised market.
+We will be competing against OEM franchises (whose prices are significantly higher) and large-scale importers of compatible products (whose quality and yields are lower and prices are slightly higher).
+3. Growing our **team** to 10 members by the end of the first year. ...
+4. **Logistics** ...
+5. **Digitalising operations** ... HubSpot CRM software ...
+6. **Pricing strategy** ..
+7. **Sales targets**
+
+##### Further growth
+
+...
 
 [1]: https://www.wecyclers.com/
 [2]: http://www.wako-janibis.co.jp/english/products.html
@@ -159,7 +265,13 @@ To increase our market share among tertiary educational institutions we will pro
 [4]: https://data.worldbank.org/indicator/SE.ADT.1524.LT.ZS?locations=NG
 [5]: https://cvcnigeria.org/
 [6]: https://net.nbte.gov.ng/
-[7]: https://www.nuc.edu.ng/
-[8]: https://asuunigeria.org/
-
-
+[7]: https://samudra.world/
+[8]: https://www.eleftheria-egel.com/
+[9]: http://www.ro-marong.com/
+[10]: https://www.africabizinfo.com/NG/dartun-technologies-nig-ltd-0802-300-5111
+[11]: https://www.cotecna.com/en/locations/nigeria
+[12]: https://www.sgs.com.ng/
+[13]: https://www.iso.org/member/1982.html
+[14]: https://ng-check.com/association-of-office-equipment-technicians-of-nigeria/1456125.html
+[15]: https://www.isa-germany.com/en/homepage/
+[16]: https://portal.citn.org/
