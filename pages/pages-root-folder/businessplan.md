@@ -186,7 +186,7 @@ Most importantly, we've already assmebled a stellar team of talented, environemt
 **Lateef Salami**, the founder of Ecopath, has more than 15 years of experience in the office equipment industry in Nigeria.
 Lateef's academic background is in Electrical Engineering (Higher National Diploma from The Polytechnic in Ibadan, Nigeria, 2001) and Sustainability and Environmental Management (Master's degree from University of Derby, UK, 2019).
 Lateef's career in office equipment industry began in 2004 when he joined CFAO Technologies as a Service Engineer.
-There he was responsible for maintenance and repairs of duplicators, photocopier and printer, customer relationship management, product demonstrations, training and workshops.
+There he was responsible for maintenance and repairs of duplicators, photocopiers and printers, customer relationship management, product demonstrations, training and workshops.
 
 In 2008 Lateef started Bluesky Digitech - a small informal office equipment repair consultancy. 
 The idea was to create a for-purpose business that would serve as a social empowerment platform where unemployed graduates could gain new skills for free.
@@ -203,6 +203,9 @@ Gbenga worked with Sunflag Nigeria Limited, Haggai Mortgage Bank and Slava-Yedit
 As a consultant, he has designed business development solutions for First Bank of Nigeria, Central Bank of Nigeria, Guaranty Trust Bank, Stanbic IBTC Bank, West Africa Ports Services, MainOne and Serve Consulting, to name a few.
 Gbenga is an enthusiastic person with a passion for human capital development - he coaches young people from disadvantaged backgrounds to help them realise their potential.
 
+**Philip Ishaku** is an office equipment and automation professional with more than 15 years of experience.
+Philip’s academic background is in Electrical Engineering (Higher National Diploma from Federal Polytechnic, Mubi, Nigeria, 2001).
+He is experienced in working with duplicators, photocopiers, printers and multi-function printers, and with brands like Xerox, HP, Ricoh, Sharp and Kyocera.
 
 **Dayo Oladele** has a background in Electrical Engineering.
 He has been consulting Bluesky Digitech team in office equipment repairs and maintenance since 2012. 
