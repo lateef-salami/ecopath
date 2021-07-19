@@ -15,7 +15,7 @@ widgets:
   title: Philip Ishaku, CTO
 - image: biodun-olanrewaju.jpg
   title: "Biodun Olanrewaju, RSM in Ibadan, Oyo State"
-- image: missing_image.jpg
+- image: dayo-oladele.jpg
   title: "Dayo Oladele, RSM in Akure, Ondo State"
 - image: bode-onileowo.jpg
   title: "Bode Onileowo, RSM in Ado Ekiti, Ekiti State"
@@ -253,8 +253,8 @@ We will be competing against OEM franchises (whose prices are significantly high
 3. Growing our **team** to 10 members by the end of the first year. ...
 4. **Logistics** ...
 5. **Digitalising operations** ... HubSpot CRM software ...
-6. **Pricing strategy** ..
-7. **Sales targets**
+6. **Sales targets** ...
+7. **Pricing strategy** ...
 
 ##### Further growth
 
