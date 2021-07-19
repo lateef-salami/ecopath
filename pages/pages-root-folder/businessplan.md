@@ -235,11 +235,11 @@ Our advisors are [Dr Karina Zile][7] and [Dr Eleftheria Egel][8].
     <h5>Funding required</h5>
     <p>
         Ink refilling machine imported from <a href="http://www.wako-janibis.co.jp/english/products.html" target="_blank">Wako</a>, our partners in Japan: 6,000<br>
-        Raw materials to produce 1,800 ink cartridges: 13,000<br>
+        Raw materials to produce 1,800 ink cartridges: 11,000<br>
         Workspace rent: 5,000<br>
         Vehicle for making deliveries: 5,000<br>
         Operational costs for the first year: 3,000<br>
-        <b>Total:</b> USD 32,000
+        <b>Total:</b> USD 30,000
     </p>
 </div>
 
@@ -257,7 +257,43 @@ We will be competing against OEM franchises (whose prices are significantly high
 4. **Logistics** ...
 5. **Digitalising operations** ... HubSpot CRM software ...
 6. **Sales targets** ...
-7. **Pricing strategy** ...
+7. Testing our **pricing strategy**.
+We will employ competition based pricing.
+The cheapest products currently on the market (available to SMEs in July 2021) are OEM cartridges for NGN 13,500 (USD 32.81) and compatible products from China for NGN 8,500 (USD 20.66).
+We will offer our duplicator ink cartridges to SMEs for X.
+We will also offer our duplicator ink cartridges directly to educational institutions for X.
+
+<div class="panel radius">
+    <h3>Our raw material costs per unit:</h3>
+    <h5>New cartridge raw material costs</h5>
+    <p>
+        Premixed Digital Duplicating Ink Black (about 1kg per cartridge): JPY 306 (USD 2.79)<br>
+        Ink sensor JPY 90: (USD 0.82)<br>
+        New empty cartridge: JPY 257 (USD 2.35)<br>
+        New packaging: NGN 500 (USD 1.22)<br>
+        <b>Total: USD 7.90</b> (USD 7.18 + 10% to account for currency exchange fluctuations)
+    </p>
+    <h5>Remanufactured cartridge raw material costs</h5>
+    <p>
+        Premixed Digital Duplicating Ink Black (about 1kg per cartridge): JPY 306 (USD 2.79)<br>
+        Ink sensor: JPY 90 (USD 0.82)<br>
+        Empty cartridge and packaging recovered through buy back scheme: NGN 500 (USD 1.22)<br>
+        <b>Total: USD 5.32</b> (USD 4.83 + 10% to account for currency exchange fluctuations)
+    </p>
+</div>
+
+
+<div class="panel radius">
+    <h5>Fixed costs per month</h5>
+    <p>
+        Rent ?<br>
+        Utilities ?<br>
+        Insurance ?<br>
+        Logistics ?<br>
+        Salaries: NGN 207,000 (USD 503.06)<br>
+        <b>Total: ... </b>
+    </p>
+</div>
 
 ##### Further growth
 
