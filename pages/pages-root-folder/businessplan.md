@@ -285,8 +285,8 @@ We will also offer our duplicator ink cartridges directly to educational institu
     <p>
         Salaries: NGN 207,000 (USD 503.06)<br>
         Rent: NGN 120,000 (USD 292.10)<br>
-        Utilities, equipment maintenance and logistics costs: 50,000 (USD 121.71)<br>
-        Insurance: 10,000 (USD 24.34)<br>
+        Utilities, equipment maintenance and logistics costs: NGN 50,000 (USD 121.71)<br>
+        Insurance: NGN 10,000 (USD 24.34)<br>
         <b>Total: USD 942 </b>
     </p>
 </div>
@@ -307,23 +307,23 @@ To estimate the total revenue per month we will assume that 50% of the cartridge
     <p>
         Expenses:
         <ul>
-            <li>USD 942 of fixed costs</li>
-            <li>USD 23,700 to produce 3,000 new cartridges</li>
-            <li>USD 15,960 to produce 3,000 remanufactured cartridges</li>
-            <li>USD 1,037 to pay for recovery of 850 empty cartridges that cannot be remanufactured</li>
+            <li>942 of fixed costs</li>
+            <li>23,700 to produce 3,000 new cartridges</li>
+            <li>15,960 to produce 3,000 remanufactured cartridges</li>
+            <li>1,037 to pay for recovery of 850 empty cartridges that cannot be remanufactured</li>
             <li style="list-style-type:none;"><b>Total: USD 41,639</b></li>
         </ul>
         Revenue:
         <ul>
-            <li>USD 58,410 from sales to SMEs</li>
-            <li>USD 76,530 from sales to tertiary educational institutions</li>
+            <li>58,410 from sales to SMEs</li>
+            <li>76,530 from sales to tertiary educational institutions</li>
             <li style="list-style-type:none;"><b>Total: USD 134,940</b></li>
         </ul>
         Profit before tax:
         <ul>
-            <li>USD 121,446 in revenue, after 10% paid in sales commision</li>
-            <li>USD 41,639 of expenses</li>
-            <li>USD 3,991 donated to charity (5% of profit before tax)</li>
+            <li>121,446 in revenue, after 10% paid in sales commision</li>
+            <li>41,639 of expenses</li>
+            <li>3,991 donated to charity (5% of profit before tax)</li>
             <li style="list-style-type:none;"><b>Total: USD 75,816</b></li>
         </ul>
     </p>
