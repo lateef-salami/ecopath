@@ -2,7 +2,7 @@
 layout: kz-page
 title: "Business plan"
 permalink: "/businessplan/"
-teaser: 'At Ecopath we are developing a circular economy for photocopier, printer and duplicator cartridges in Nigeria. Our mission is to provide affordable and eco-friendly ink and toner cartridges to advance industries with high demand for printouts (education, healthcare, etc.) while also reducing the amount of plastic waste generated. Remanufacturing cartridges sounds like a simple idea, but until now it has not been done anywhere in West Africa.<br> <br> Below we explain what is <a href="/businessplan#problem" target="_self">the problem we are addressing</a>, what is <a href="/businessplan#solution" target="_self">our solution</a>, what is our <a href="/businessplan#market" target="_self">initial target market</a> and how <a href="/businessplan#reach" target="_self">we will reach it</a>.'
+teaser: 'At Ecopath we are developing a circular economy for photocopier, printer and duplicator cartridges in Nigeria. Our mission is to provide affordable and eco-friendly ink and toner cartridges to advance industries with high demand for printouts (education, healthcare, etc.) while also reducing the amount of plastic waste generated. Remanufacturing cartridges sounds like a simple idea, but until now it has not been done anywhere in West Africa.<br> <br> Below we explain what is <a href="/businessplan#problem" target="_self">the problem we are addressing</a>, what is <a href="/businessplan#solution" target="_self">our solution</a>, what is our <a href="/businessplan#market" target="_self">initial target market</a> and how <a href="/businessplan#reach" target="_self">we will reach it</a>. See what we have <a href="/businessplan#achievements" target="_self">achieved so far</a> and how we plan to <a href="/businessplan#plan" target="_self">grow</a>.'
 subheadline: 
 meta_description: 
 header: no
@@ -32,7 +32,7 @@ Two options are available on the market - products from original equipment manuf
 OEM products are of high quality and produce high yields, but they are expensive. 
 Compatible products, usually from China, are more affordable, but their quality is inconsistent, their yields are lower and they sometimes include toxic components.
 In both cases, once the cartridges are empty, they are disposed of together with the rest of unsorted waste, causing a detrimental impact on the environment.
-Due to high calorific value of cartridges they are often open burnt (thus substituting expensive kerosine) to make fire for cooking and to encourage burning of other waste, thus contributing to air pollution and exposing humans to inhalation of toxic substances.
+Due to high calorific value of cartridges they are often open burnt (thus substituting expensive kerosene) to make fire for cooking and to encourage burning of other waste, thus contributing to air pollution and exposing humans to inhalation of toxic substances.
 
 
 ### <a name="solution"></a> Our solution
@@ -103,7 +103,7 @@ Some of them have maintenance contracts with SMEs that also supply cartridges to
 Over 170 universities and colleges are members of the [Committee of Vice-Chancellors (CVC)][5]. 
 Over 300 polytechnics, colleges of agriculture and other technical and vocational education and training (TVET) institutions are under the management of [National Board of Technical Education (NBTE)][6].
 This means that we can access 64% of tertiary educational institutions simply by reaching out to CVC and NBTE.
-Our ink cartridges for duplicators are already being tested by CVC and they are very pleased with the high quality of our product.
+Our ink cartridges for duplicators are already being tested by both CVC and NBTE and they are very pleased with the high quality of our product.
 In contrast, Nigeria's primary schools are administered by the local governments and hence the market is much more fragmented.
 But it is a big market - there are about 97,000 primary schools (64% of them are public) and about 33,000 secondary schools (38% of them are public) - and we will be targeting this market in the future.
 3. **Price is often the deciding factor** for tertiary educational institutions, especially since present day economic challenges have led to decrease in government budgets for the education sector.
@@ -159,7 +159,7 @@ Our regional sales managers will have close relationships with our existing and 
 This will be achieved through five main channels:
 1. Currently **in person communication** is still the prevalent method to reach customers in this industry. 
 To reach SMEs we will organise in person meetings, and network at events for stakeholders in the office equipment industry, for example events organised by the [Association of Office Equipment Technicians of Nigeria][14].
-To reach tertiary educational institutions we will schedule product demonstrations with officials in charge of procurement, and network through umbrella bodies like [CVC][5] and [NBTE][6].
+To reach tertiary educational institutions we will schedule product demonstrations with officials in charge of procurement, and network through umbrella bodies like [CVC][5], [NBTE][6] and [National Commission for Colleges of Education (NCCE)][19].
 2. **Social media** platforms - WhatsApp, Facebook, Instagram and Twitter - that are popular in Nigeria.
 Through advertisement on social media platforms and through our website and LinkedIn page we are able to reach a large segment of the market.
 This will also often be the main channel for communicating with our SME customers, since they are active on social media platforms both because it allows them to reach their customers and because it fits their highly mobile lifestyle - they spend more time visiting their customers to provide maintenance and repair services than in their offices.
@@ -172,11 +172,25 @@ To increase our market share among tertiary educational institutions we will pro
 
 
 
-### What we've achieved so far
+### <a name="achievements"></a> Our achievements so far
 
-...
+Ecopath has signed two contracts with [Wako][2], our partners in Japan.
+The first contract outlines the terms of sales of raw materials for the production of duplicator ink cartridges; the second guarantees technical guidance on producing duplicator ink cartridges using the materials they supply.
 
-Most importantly, we've already assmebled a stellar team of talented, environemtally minded people who all share the vision of our for-purpose business.
+Our ink cartridges for duplicators imported from Japan are already being tested by both CVC (12 cartridges provided) and NBTE (6 cartridges provided) and they are very pleased with the high quality of our product. 
+Lateef conducted a workshop for the members of CVC that was well attended; the verbal feedback received was very positive.
+CVC said they are interested in working with Ecopath to achieve circular economy in printing operations in Nigerian universities.
+Ecopath has non-binding agreements with both CVC and NBTE regarding future cartridge sales.
+Both are expecting a formal proposition for collaboration from Ecopath, which will be signed by the executive secretaries of these associations.
+
+[International Sustainability Academy (ISA)][15] works closely with the Nigerian Ambassador to Germany.
+ISA offered Lateef an introduction, which will lead to Ecopath being able to work directly with the Government of Nigeria and to facilitate adoption of remanufactured cartridges in government owned primary and secondary schools.
+This effort will begin once Ecopath has obtained the funding required and started its operations.
+
+Through Lateef and Ecopath’s three regional sales managers, [29 out of 738 tertiary educational institutions][20] in Nigeria (i.e. 4% of the market) are already expecting to purchase duplicator cartridges supplied by Ecopath in the near future. 
+This includes nine tertiary educational institutions in Oyo state, six in Ondo State, four in Lagos State, three in Ekiti and Osun States, and one in Enugu, Kaduna, Ogun and Rivers States.
+
+Most importantly, we've already assembled a stellar team of talented, environmentally minded people who all share the vision of our for-purpose business.
 
 ##### Our stellar team
 
@@ -229,7 +243,7 @@ We aim to have both genders represented equally in our team in the future.
 
 Our advisors are [Dr Karina Zile][7] and [Dr Eleftheria Egel][8].
 
-### Our growth plan
+### <a name="plan"></a>  Our growth plan
 
 <div class="panel radius t20">
     <h5>Funding required</h5>
@@ -242,7 +256,7 @@ Our advisors are [Dr Karina Zile][7] and [Dr Eleftheria Egel][8].
 </div>
 
 
-### First year
+##### First year
 
 During our first year of operation we will focus on the following:
 1. Setting up a **workspace** in Lagos, the commercial capital of Nigeria, where we will be producing our products.
@@ -250,11 +264,15 @@ During our first year of operation we will focus on the following:
 The components required are recovered empty cartridges; ink and ink sensors imported in bulk; and packaging outsourced to a local company.
 The competition in this segment of the office equipment market is minimal, since duplicators are mostly used in educational institutions and are hence perceives as a specialised market.
 We will be competing against OEM franchises (whose prices are significantly higher) and large-scale importers of compatible products (whose quality and yields are lower and prices are slightly higher).
-3. Growing our **team** to 10 members by the end of the first year. ...
-4. **Logistics** ...
-5. **Digitalising operations** ... HubSpot CRM software ...
-6. **Sales targets** ...
-7. Testing our **pricing strategy**.
+3. **Growing our team** to 9 members by the end of the first year. 
+We plan to hire 3 production staff.
+We will aim to have an equal number of male and female employees, and we will reserve 30% of our vacancies for people with disabilities. 
+Our sales team will be trained in marketing, sales, and using social media for marketing activities and for customer relationship management (CRM). 
+We will provide each member of our sales team with a phone and an internet connection.
+4. To ensure reliable **logistics services** for transporting our products and recovered empty cartridges we will be working closely with [National Union of Road Transport Workers (NURTW)][17], whose members provide transportation services across the whole country.
+5. **Digitalising our operations** to ensure transparency and efficiency.
+We will be using [HubSpot's Free CRM Platform][18] to monitor sales and guide our marketing strategy.
+6. Testing our **pricing strategy**.
 We will employ competition based pricing.
 The cheapest products currently on the market (available to SMEs in July 2021) are OEM cartridges for NGN 13,500 (USD 32.81) and compatible products from China for NGN 8,500 (USD 20.66).
 We will offer our duplicator ink cartridges to SMEs for NGN 8,000 (USD 19.47).
@@ -302,7 +320,7 @@ To estimate the total revenue per month we will assume that 50% of the cartridge
 
 
 <div class="panel radius">
-    <h5>A pessimistic prediction of monthly profit achived by the end of the first year of operation</h5>
+    <h5>Monthly profit achieved by the end of the first year of operations (a pessimistic prediction)</h5>
     <br>
     <p>
         Expenses:
@@ -321,7 +339,7 @@ To estimate the total revenue per month we will assume that 50% of the cartridge
         </ul>
         Profit before tax:
         <ul>
-            <li>121,446 in revenue, after 10% paid in sales commision</li>
+            <li>121,446 in revenue, after 10% paid in sales commission</li>
             <li>41,639 of expenses</li>
             <li>3,991 donated to charity (5% of profit before tax)</li>
             <li style="list-style-type:none;"><b>Total: USD 75,816</b></li>
@@ -333,7 +351,18 @@ To estimate the total revenue per month we will assume that 50% of the cartridge
 
 ##### Further growth
 
-...
+After the first year of operations we are expecting to continue growing our team and our market share.
+We will be working directly with the Government of Nigeria to facilitate adoption of remanufactured cartridges in government owned primary and secondary schools. 
+Once we gain a large portion of the market, that currently consists of 130,000 schools, our team will grow to about 150 employees and our revenue will be over USD 1 million per months.
+
+In terms of products, we initially aim to expand into photocopier cartridges, that are easy to refill, and printer cartridges, for which remanufacturing is more complicated.
+This will be accompanied by continuous market research to ensure that we are familiar with market trends for office equipment, new emerging technologies, and advancements in cartridge remanufacturing techniques.
+To ensure continuos growth, we will be exploring options for Ecopath to become a remanufacturing and recycling hub for office equipment, printing paper, etc.
+
+In terms of geographical reach, we aim to have distributors in at least 18 states in Nigeria by the end of the third year and distributors in every state in Nigeria by the end of the fifth year.
+We will be exploring options for expanding beyond Nigeria through franchising and collaborations with local companies.
+Ultimately, Lateef wants to create a sister organisation for [European Toner and Inkjet Remanufacturers Association (ETIRA)][21] in West Africa.
+
 
 [1]: https://www.wecyclers.com/
 [2]: http://www.wako-janibis.co.jp/english/products.html
@@ -351,3 +380,8 @@ To estimate the total revenue per month we will assume that 50% of the cartridge
 [14]: https://ng-check.com/association-of-office-equipment-technicians-of-nigeria/1456125.html
 [15]: https://www.isa-germany.com/en/homepage/
 [16]: https://portal.citn.org/
+[17]: https://www.itfglobal.org/en/sector/road-transport/nurtw-project
+[18]: https://www.hubspot.com/products/crm
+[19]: http://www.ncceonline.edu.ng/aboutus.php
+[20]: /list-of-customers/
+[21]: https://www.etira.org/
