@@ -14,8 +14,7 @@
         <div>
           <ul class="inline-list">
             {% for social_item in site.data.socialmedia %}
-            <li><a href="{{ social_item.url }}" target="_blank" class="{{ social_item.class }}"
-                   title="{{ social_item.title }}"></a></li>
+              <li><a href="{{ social_item.url }}" target="_blank" title="{{ social_item.title }}"><i class='fa {{ social_item.class }}'></i></a></li>
             {% endfor %}
           </ul>
         </div>

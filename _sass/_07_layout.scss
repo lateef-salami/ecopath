@@ -322,13 +322,14 @@ body.video cite { color: #fff; }
     padding: 0 0 10px 0;
   }
   a {
-    font-size: rem-calc(23);
+    font-size: rem-calc(27);
     display: block;
-    width: 36px;
+    width: 44px;
     border-radius: 50%;
     color: $subfooter-bg;
     background: $subfooter-color;
     text-align: center;
+    padding-left: 1px;
     &:hover {
       background: $subfooter-bg;
       color: #fff;

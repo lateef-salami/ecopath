@@ -1,26 +1,26 @@
 - name: Email
   url: mailto:lateef@ecopath.page
-  class: icon-mail
+  class: fa-envelope
   title: ""
 
 - name: WhatsApp
   url: https://wa.me/2348038075463?text=I%20am%20interested%20in%20your%20cartridges
-  class: icon-chat
+  class: fa-whatsapp
   title: ""
 
 - name: Facebook
   url: https://www.facebook.com/Ecopath-107842441580696
-  class: icon-facebook
+  class: fa-facebook
   title: ""
 
 - name: Twitter
   url: https://twitter.com/Ecopath2
-  class: icon-twitter
+  class: fa-twitter
   title: ""
 
 - name: LinkedIn
   url: https://www.linkedin.com/company/ecopath-page/
-  class: icon-linkedin
+  class: fa-linkedin
   title: ""
 
 
