@@ -5,9 +5,11 @@
   url: "/"
   logo: true
   side: left
-
-- title: "About"
-  url: "/about/"
+- title: "Our solution"
+  url: "/solution/"
+  side: left
+- title: "Our team"
+  url: "/team/"
   side: left
 
 # - title: "Projects"
