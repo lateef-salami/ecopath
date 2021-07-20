@@ -167,7 +167,7 @@ This will also often be the main channel for communicating with our SME customer
 Physical mail delivered to educational institutions gets prompt attention, while marketing emails get lost in junk mail. 
 4. **Bluesky Digitech** network of young professionals in office equipment industry that now covers most of the country.
 5. **Referrals** will also play an important role.
-We will offer a 2-5% bonus to SMEs whose referred customers buy our products.
+To increase our market share among SMEs we will rely on word-of-mouth referrals.
 To increase our market share among tertiary educational institutions we will provide references from institutions already using our products.
 
 
@@ -235,14 +235,11 @@ Our advisors are [Dr Karina Zile][7] and [Dr Eleftheria Egel][8].
     <h5>Funding required</h5>
     <p>
         Ink refilling machine imported from <a href="http://www.wako-janibis.co.jp/english/products.html" target="_blank">Wako</a>, our partners in Japan: 6,000<br>
-        Raw materials to produce 1,800 ink cartridges: 11,000<br>
-        Workspace rent: 5,000<br>
-        Vehicle for making deliveries: 5,000<br>
-        Operational costs for the first year: 3,000<br>
-        <b>Total:</b> USD 30,000
+        Raw materials to produce 1,800 ink cartridges: 14,220<br>
+        Fixed costs for the first year: 11,304<br>
+        <b>Total:</b> USD 31,524
     </p>
 </div>
-
 
 
 ### First year
@@ -260,20 +257,20 @@ We will be competing against OEM franchises (whose prices are significantly high
 7. Testing our **pricing strategy**.
 We will employ competition based pricing.
 The cheapest products currently on the market (available to SMEs in July 2021) are OEM cartridges for NGN 13,500 (USD 32.81) and compatible products from China for NGN 8,500 (USD 20.66).
-We will offer our duplicator ink cartridges to SMEs for X.
-We will also offer our duplicator ink cartridges directly to educational institutions for X.
+We will offer our duplicator ink cartridges to SMEs for NGN 8,000 (USD 19.47).
+Tertiary educational institutions buy OEM cartridges for NGN 14,500 - 18,000 and compatible products from China for NGN 11,000 - 14,000.
+We will also offer our duplicator ink cartridges directly to educational institutions for NGN 10,500 - 13,000, depending on the type of institution.
 
 <div class="panel radius">
-    <h3>Our raw material costs per unit:</h3>
-    <h5>New cartridge raw material costs</h5>
+    <h5>Our raw material costs per cartridge:</h5>
     <p>
         Premixed Digital Duplicating Ink Black (about 1kg per cartridge): JPY 306 (USD 2.79)<br>
-        Ink sensor JPY 90: (USD 0.82)<br>
+        Ink sensor: JPY 90 (USD 0.82)<br>
         New empty cartridge: JPY 257 (USD 2.35)<br>
         New packaging: NGN 500 (USD 1.22)<br>
         <b>Total: USD 7.90</b> (USD 7.18 + 10% to account for currency exchange fluctuations)
     </p>
-    <h5>Remanufactured cartridge raw material costs</h5>
+    <h5>Our raw material costs per remanufactured cartridge:</h5>
     <p>
         Premixed Digital Duplicating Ink Black (about 1kg per cartridge): JPY 306 (USD 2.79)<br>
         Ink sensor: JPY 90 (USD 0.82)<br>
@@ -284,16 +281,55 @@ We will also offer our duplicator ink cartridges directly to educational institu
 
 
 <div class="panel radius">
-    <h5>Fixed costs per month</h5>
+    <h5>Fixed costs per month:</h5>
     <p>
-        Rent ?<br>
-        Utilities ?<br>
-        Insurance ?<br>
-        Logistics ?<br>
         Salaries: NGN 207,000 (USD 503.06)<br>
-        <b>Total: ... </b>
+        Rent: NGN 120,000 (USD 292.10)<br>
+        Utilities, equipment maintenance and logistics costs: 50,000 (USD 121.71)<br>
+        Insurance: 10,000 (USD 24.34)<br>
+        <b>Total: USD 942 </b>
     </p>
 </div>
+
+By the end of the first year of operation we expect to have at least 300 customers, each buying at least 20 cartridges per month.
+This is assuming at least 5 new customers per months acqired by each of the three regional sales managers, CEO and CTO.
+In practise the number of new customers per months will be higher, but we don't want to assume 100% customer retention, which we will strive for. 
+
+To estimate the raw material costs to produce 6,000 cartridges, we assume that we will pay for recovery of 70% of the cartridges sold last months (i.e. 3850 cartridges) and that 50% of the cartridges sold this month (i.e. 3,000) will be remanufactured.
+We will assume that due to currency exchange fluctuations our raw material costs will be 10% higher than currently.
+To estimate the total revenue per month we will assume that 50% of the cartridges will be sold to SMEs for NGN 8,000 (USD 19.47) and the rest will be sold directly to tertiary educational institutions for NGN 10,500 (USD 25.51).
+
+
+
+<div class="panel radius">
+    <h5>A pessimistic prediction of monthly profit achived by the end of the first year of operation</h5>
+    <br>
+    <p>
+        Expenses:
+        <ul>
+            <li>USD 942 of fixed costs</li>
+            <li>USD 23,700 to produce 3,000 new cartridges</li>
+            <li>USD 15,960 to produce 3,000 remanufactured cartridges</li>
+            <li>USD 1,037 to pay for recovery of 850 empty cartridges that cannot be remanufactured</li>
+            <li style="list-style-type:none;"><b>Total: USD 41,639</b></li>
+        </ul>
+        Revenue:
+        <ul>
+            <li>USD 58,410 from sales to SMEs</li>
+            <li>USD 76,530 from sales to tertiary educational institutions</li>
+            <li style="list-style-type:none;"><b>Total: USD 134,940</b></li>
+        </ul>
+        Profit before tax:
+        <ul>
+            <li>USD 121,446 in revenue, after 10% paid in sales commision</li>
+            <li>USD 41,639 of expenses</li>
+            <li>USD 3,991 donated to charity (5% of profit before tax)</li>
+            <li style="list-style-type:none;"><b>Total: USD 75,816</b></li>
+        </ul>
+    </p>
+</div>
+
+
 
 ##### Further growth
 
