@@ -11,13 +11,13 @@ header: no
 
 ### Oyo State
 * Lead City University (directly by Lateef Salami)
-* Federal College of Education (by Lateef Salami through Jelkaf Global Services in Ibadan)
-* Polytechnic Ibadan (by Lateef Salami through Jelkaf Global Services in Ibadan)
-* Federal School Of Statistics (directly by Biodun Olanrewaju)
-* University of Ibadan (by Biodun Olanrewaju through Peter Peace in Ibadan)
 * The Oke-Ogun Polytechnic, Saki (TOPS) (directly by Bode Onileowo)
 * Emmanuel Alayande College Of Education (directly by Bode Onileowo)
 * The Ibarapa Polytechnic Eruwa (directly by Bode Onileowo)
+* Federal School Of Statistics (directly by Biodun Olanrewaju)
+* Federal College of Education (by Lateef Salami through Jelkaf Global Services in Ibadan)
+* Polytechnic Ibadan (by Lateef Salami through Jelkaf Global Services in Ibadan)
+* University of Ibadan (by Biodun Olanrewaju through Peter Peace in Ibadan)
 * Ajayi Crowther University (ACU) (by Dayo Oladele through Tayo Adegoke in Warri)
 
 ### Ondo State

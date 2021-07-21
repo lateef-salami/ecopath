@@ -8,7 +8,7 @@ meta_description:
 header: no
 widgets:
 - image: lateef-salami.jpg
-  title: <a href="https://www.linkedin.com/in/lateef-salami/" target="_self">Lateef Salami, CEO</a> 
+  title: <a href="https://www.linkedin.com/in/lateef-salami/" target="_blank">Lateef Salami, CEO</a> 
 - image: gbenga-hussein.jpg
   title: Gbenga Hussein, CFO
 - image: philip-ishaku.jpg
@@ -189,6 +189,7 @@ This effort will begin once Ecopath has obtained the funding required and starte
 
 Through Lateef and Ecopath’s three regional sales managers, [29 out of 738 tertiary educational institutions][20] in Nigeria (i.e. 4% of the market) are already expecting to purchase duplicator cartridges supplied by Ecopath in the near future. 
 This includes nine tertiary educational institutions in Oyo state, six in Ondo State, four in Lagos State, three in Ekiti and Osun States, and one in Enugu, Kaduna, Ogun and Rivers States.
+Out of these 29, 16 tertiary educational institutions will be our direct customers and 13 will be supplied through an SME they are already working with.
 
 Most importantly, we've already assembled a stellar team of talented, environmentally minded people who all share the vision of our for-purpose business.
 
@@ -252,7 +253,7 @@ Our advisors are [Dr Karina Zile][7] and [Dr Eleftheria Egel][8].
         Raw materials imported from <a href="http://www.wako-janibis.co.jp/english/products.html" target="_blank">Wako</a> to produce 1,800 ink cartridges: USD 13,968<br>
         Freight, custom duties, import licence and documentation, port charges and insurance: USD 3,000<br>
         Fixed costs for the first year: USD 11,304<br>
-        <b>Total:</b> USD 34,630
+        <b>Total: USD 34,630</b>
     </p>
 </div>
 
