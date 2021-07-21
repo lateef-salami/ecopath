@@ -249,9 +249,10 @@ Our advisors are [Dr Karina Zile][7] and [Dr Eleftheria Egel][8].
     <h5>Funding required</h5>
     <p>
         Ink refilling machine imported from <a href="http://www.wako-janibis.co.jp/english/products.html" target="_blank">Wako</a>, our partners in Japan: 6,000<br>
-        Raw materials to produce 1,800 ink cartridges: 14,220<br>
+        Raw materials imported from <a href="http://www.wako-janibis.co.jp/english/products.html" target="_blank">Wako</a> to produce 1,800 ink cartridges: 13,968<br>
+        Freight, custom duties, import licence and documentation, port charges and insurance: 3,000<br>
         Fixed costs for the first year: 11,304<br>
-        <b>Total:</b> USD 31,524
+        <b>Total:</b> USD 34,272
     </p>
 </div>
 
@@ -283,20 +284,21 @@ We will also offer our duplicator ink cartridges directly to educational institu
     <h5>Our raw material costs per cartridge:</h5>
     <p>
         Premixed Digital Duplicating Ink Black (about 1kg per cartridge): JPY 306 (USD 2.79)<br>
-        Ink sensor: JPY 90 (USD 0.82)<br>
-        New empty cartridge: JPY 257 (USD 2.35)<br>
+        Ink sensor: JPY 85 (USD 0.77)<br>
+        New empty cartridge: JPY 250 (USD 2.27)<br>
+        Custom duty on above materials: USD 0.59<br>
         New packaging: NGN 500 (USD 1.22)<br>
-        <b>Total: USD 7.90</b> (USD 7.18 + 10% to account for currency exchange fluctuations)
+        <b>Total: USD 8.41</b> (USD 7.64 + 10% to account for currency exchange fluctuations)
     </p>
     <h5>Our raw material costs per remanufactured cartridge:</h5>
     <p>
         Premixed Digital Duplicating Ink Black (about 1kg per cartridge): JPY 306 (USD 2.79)<br>
-        Ink sensor: JPY 90 (USD 0.82)<br>
+        Ink sensor: JPY 85 (USD 0.77)<br>
+        Custom duty on above materials: USD 0.36<br>
         Empty cartridge and packaging recovered through buy back scheme: NGN 500 (USD 1.22)<br>
-        <b>Total: USD 5.32</b> (USD 4.83 + 10% to account for currency exchange fluctuations)
+        <b>Total: USD 5.66</b> (USD 5.14 + 10% to account for currency exchange fluctuations)
     </p>
 </div>
-
 
 <div class="panel radius">
     <h5>Fixed costs per month:</h5>
@@ -326,10 +328,10 @@ To estimate the total revenue per month we will assume that 50% of the cartridge
         Expenses:
         <ul>
             <li>942 of fixed costs</li>
-            <li>23,700 to produce 3,000 new cartridges</li>
-            <li>15,960 to produce 3,000 remanufactured cartridges</li>
+            <li>25,230 to produce 3,000 new cartridges</li>
+            <li>16,980 to produce 3,000 remanufactured cartridges</li>
             <li>1,037 to pay for recovery of 850 empty cartridges that cannot be remanufactured</li>
-            <li style="list-style-type:none;"><b>Total: USD 41,639</b></li>
+            <li style="list-style-type:none;"><b>Total: USD 44,189</b></li>
         </ul>
         Revenue:
         <ul>
@@ -340,9 +342,9 @@ To estimate the total revenue per month we will assume that 50% of the cartridge
         Profit before tax:
         <ul>
             <li>121,446 in revenue, after 10% paid in sales commission</li>
-            <li>41,639 of expenses</li>
-            <li>3,991 donated to charity (5% of profit before tax)</li>
-            <li style="list-style-type:none;"><b>Total: USD 75,816</b></li>
+            <li>44,189 of expenses</li>
+            <li>3,863 donated to charity (5% of profit before tax)</li>
+            <li style="list-style-type:none;"><b>Total: USD 73,394</b></li>
         </ul>
     </p>
 </div>
