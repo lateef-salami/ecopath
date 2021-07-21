@@ -14,7 +14,7 @@ widgets:
 - title: '<h3 style="background-color: #FFFF00;">Non-toxic</h3>'
   text: Non-toxic inks and toners as we chose our suppliers with care.
 - title: '<h3 style="background-color: #000000; color: #FFFFFF;">Zero waste</h3>'
-  text: Zero waste to landfill as we recover our cartridges from our customers to either remanufacture or recycle them
+  text: Zero waste to landfill as we recover our cartridges from our customers to either remanufacture or recycle them.
 
 ---
 

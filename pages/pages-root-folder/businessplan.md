@@ -341,14 +341,22 @@ To estimate the total revenue per month we will assume that 50% of the cartridge
         </ul>
         Profit before tax:
         <ul>
-            <li>121,446 in revenue, after 10% paid in sales commission</li>
-            <li>44,189 of expenses</li>
-            <li>3,863 donated to charity (5% of profit before tax)</li>
-            <li style="list-style-type:none;"><b>Total: USD 73,394</b></li>
+        		<li style="list-style-type:none;">+ 134,940 of revenue</li>
+        		<li style="list-style-type:none;">- 13,494 of 10% sales commission</li>
+        		<li style="list-style-type:none;">- 10,121 of 7.5% Value Added Tax (VAT)</li>
+        		<li style="list-style-type:none;">- 44,189 of expenses</li>
+        		<li style="list-style-type:none;"><b>Total: USD 67,136</b></li>
+        </ul>
+        Final profit:
+        <ul>
+        		<li style="list-style-type:none;">+ 67,136 of profit before tax</li>
+        		<li style="list-style-type:none;">- 3,357 donated to charity (5% of profit)</li>
+        		<li style="list-style-type:none;">Subtotal: USD 63,779</li>
+        		<li style="list-style-type:none;">- 19,134 of 30% corporate income tax</li>
+        		<li style="list-style-type:none;"><b>Total: USD 44,645</b></li>
         </ul>
     </p>
 </div>
-
 
 
 ##### Further growth
