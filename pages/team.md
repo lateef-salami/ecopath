@@ -12,7 +12,7 @@ widgets:
 widgets2:
 - image: gbenga-hussein.jpg
   title: Gbenga Hussein, CFO
-  text: 'Gbenga is a chartered accountant and an associate member of the <a href="https://portal.citn.org/" target="_blank">Chartered Institute of Taxation of Nigeria</a>. He has skills in financial management, strategy and change management, and experience in financial services, manufacturing and construction industries. Gbenga worked with Sunflag Nigeria Limited, Haggai Mortgage Bank and Slava-Yeditepe Construction Group where he was the Head of Accounts. As a consultant, he has designed business development solutions for First Bank of Nigeria, Central Bank of Nigeria, Guaranty Trust Bank, Stanbic IBTC Bank, West Africa Ports Services, MainOne and Serve Consulting, to name a few. Gbenga is an enthusiastic person with a passion for human capital development - he coaches young people from disadvantaged backgrounds to help them realise their potential.'
+  text: 'Gbenga is a chartered accountant and an associate member of the <a href="https://portal.citn.org/" target="_blank">Chartered Institute of Taxation of Nigeria</a>. He is an expert in financial management, strategy and change management. Gbenga worked with Sunflag Nigeria Limited, Haggai Mortgage Bank and Slava-Yeditepe Construction Group where he was the Head of Accounts. As a consultant, he has designed business development solutions for First Bank of Nigeria, Central Bank of Nigeria, Guaranty Trust Bank, and Stanbic IBTC Bank, to name a few.'
 - image: philip-ishaku.jpg
   title: Philip Ishaku, CTO
   text: 'Philip Ishaku is an office equipment and automation professional with more than 15 years of experience. Philip’s academic background is in Electrical Engineering (Higher National Diploma from Federal Polytechnic, Mubi, Nigeria, 2001). He is experienced in working with duplicators, photocopiers, printers and multi-function printers, and with brands like Xerox, HP, Ricoh, Sharp and Kyocera.'
@@ -26,8 +26,8 @@ widgets2:
   title: "Biodun Olanrewaju, RSM in Ibadan, Oyo State"
   text: "Biodun Olanrewaju joined Bluesky Digitech as an apprentice in 2008. He has since developed a large customer base in Oyo, Ogun and Lagos states. He is Ecopath's RSM in South and South-west states."
 - image: team-join-us.jpg
-  title: 
-  text: 
+  title: Join us!
+  text: "We are looking for environmentally minded people to join our team. We especially encourage applications from women and people with disabilities."
 
 ---
 
