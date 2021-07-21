@@ -248,14 +248,13 @@ Our advisors are [Dr Karina Zile][7] and [Dr Eleftheria Egel][8].
 <div class="panel radius t20">
     <h5>Funding required</h5>
     <p>
-        Ink refilling machine imported from <a href="http://www.wako-janibis.co.jp/english/products.html" target="_blank">Wako</a>, our partners in Japan: 6,000<br>
-        Raw materials imported from <a href="http://www.wako-janibis.co.jp/english/products.html" target="_blank">Wako</a> to produce 1,800 ink cartridges: 13,968<br>
-        Freight, custom duties, import licence and documentation, port charges and insurance: 3,000<br>
-        Fixed costs for the first year: 11,304<br>
-        <b>Total:</b> USD 34,272
+        Ink refilling machine imported from <a href="http://www.wako-janibis.co.jp/english/products.html" target="_blank">Wako</a>, our partners in Japan: JPY 700,000 (USD 6,358)<br>
+        Raw materials imported from <a href="http://www.wako-janibis.co.jp/english/products.html" target="_blank">Wako</a> to produce 1,800 ink cartridges: USD 13,968<br>
+        Freight, custom duties, import licence and documentation, port charges and insurance: USD 3,000<br>
+        Fixed costs for the first year: USD 11,304<br>
+        <b>Total:</b> USD 34,630
     </p>
 </div>
-
 
 ##### First year
 
