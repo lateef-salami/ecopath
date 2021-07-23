@@ -71,9 +71,8 @@ Additionally, we will be making a difference by:
 	</li>
 </ol>
 
-Our competitors are OEM franchises (for example [Ro-Marong Nigeria][9])  and large-scale importers of compatible products (for example [Dartun Technologies][10]).
+Our competitors are OEM franchises (for example [Ro-Marong Nigeria][9])  and large-scale importers of compatible products (for example [SFICO][10] and [COPYBAY][22]).
 They import cartridges from China, South Africa and Dubai.
-
 
 ### <a name="market"></a> Our initial target markets
 
@@ -226,7 +225,7 @@ He is experienced in working with duplicators, photocopiers, printers and multi-
 He has been consulting Bluesky Digitech team in office equipment repairs and maintenance since 2012. 
 Due to his extensive experience, he is a bit of a celebrity among repair technicians.
 Many banks, schools and hospitals in Ondo and Osun states are among his current customers.
-He is Ecopath's regional sales manager (RSM) in South-east and North-west states.
+He is Ecopath's regional sales manager (RSM) in South and South-east states.
 
 **Bode Onileowo** has a background in Agricultural Economics.
 Since completing the apprenticeship at Bluesky Digitech in office equipment installation, maintenance and repairs, he has established an impressive professional network in Ekiti and Kwara states.
@@ -235,7 +234,8 @@ He is Ecopath's RSM in North and North-east states.
 
 **Biodun Olanrewaju** joined Bluesky Digitech as an apprentice in 2008.
 He has since developed a large customer base in Oyo, Ogun and Lagos states.
-He is Ecopath's RSM in South and South-west states.
+He is Ecopath's RSM in South-west and North-west states.
+
 
 The only thing that is missing in our team is gender diversity. 
 This is how things are in Nigeria right now - office equipment industry is almost exclusively male dominated.
@@ -352,8 +352,8 @@ To estimate the total revenue per month we will assume that 50% of the cartridge
         		<li style="list-style-type:none;">+ 67,837 of profit before tax</li>
         		<li style="list-style-type:none;">- 3,392 donated to charity (5% of profit)</li>
         		<li style="list-style-type:none;">Subtotal: USD 64,445</li>
-        		<li style="list-style-type:none;">- 12,889 of 20% corporate income tax</li>
-        		<li style="list-style-type:none;"><b>Total: USD 51,556</b></li>
+        		<li style="list-style-type:none;">- 19,334 of 20% corporate income tax</li>
+        		<li style="list-style-type:none;"><b>Total: USD 45,111</b></li>
         </ul>
     </p>
 </div>
@@ -385,7 +385,7 @@ Ultimately, Lateef wants to create a sister organisation for [European Toner and
 [7]: https://samudra.world/
 [8]: https://www.eleftheria-egel.com/
 [9]: http://www.ro-marong.com/
-[10]: https://www.africabizinfo.com/NG/dartun-technologies-nig-ltd-0802-300-5111
+[10]: https://www.sficolimited.com/
 [11]: https://www.cotecna.com/en/locations/nigeria
 [12]: https://www.sgs.com.ng/
 [13]: https://www.iso.org/member/1982.html
@@ -397,3 +397,4 @@ Ultimately, Lateef wants to create a sister organisation for [European Toner and
 [19]: http://www.ncceonline.edu.ng/aboutus.php
 [20]: /list-of-customers/
 [21]: https://www.etira.org/
+[22]: https://www.copybay.com.ng/
