@@ -4,11 +4,20 @@ header:
   title: ""
   image_fullwidth: main.jpg
 permalink: /solution/
+widgets:
+- image: sdg3.png
+  text: By forcing cartridges that contain inks and toners hazardous to human health off the market and by preventing open burning of used cartridges, we will improve human health.
+- image: sdg9.png
+  text: By establishing the first cartridge remanufacturing business in West Africa, we will advance industrial capacity of Nigeria and foster the innovation culture.
+- image: sdg12.png
+  text: By retrieving used cartridges through buy back schemes and other incentives we will create a business based on a circular economy, encouraging others to follow us.
+- image: sdg13.png
+  text: By remanufacturing cartridges we will avoid emissions (including GHGs and black carbon) associated both with producing new cartridges and with disposal of used ones.
 
 ---
 ### The problem
 
-Thousands of ink and toner cartridges are imported into Nigeria every year for use in education, healthcare, finance and other sectors. 
+Millions of ink and toner cartridges are imported into Nigeria every year for use in education, healthcare, finance and other sectors. 
 Since no cartridges are manufactured in Nigeria, the quality of those available for purchase is determined by the foreign exchange conditions. 
 The value of naira (NGN) against the US dollar (USD) has fallen fourfold since 2008, pushing the importers to purchase the cheapest options - often these are low quality cartridges from China that contain inks and toners hazardous to human health.
 
@@ -54,6 +63,11 @@ Additionally, we will be making a difference by:
     We want to support tertiary educational institutions to strengthen their research capacity and fund students from disadvantaged backgrounds, and Diabetic Association of Nigeria, as diabetes rates are surging in Nigeria and many cannot afford the treatment they need.
   </li>
 </ol>
+
+With our work we will be directly contributing to 4 Sustainable Development Goals:
+
+{% include _widget_grid_layout.html widgets=page.widgets articles_per_row=4 %}
+
 
 [1]: https://www.wecyclers.com/
 [2]: http://www.wako-janibis.co.jp/english/products.html

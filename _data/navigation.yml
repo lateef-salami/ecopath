@@ -11,6 +11,9 @@
 - title: "Our team"
   url: "/team/"
   side: left
+- title: "Contact us"
+  url: "/contact/"
+  side: left
 
 # - title: "Projects"
 #   url: "/projects/"

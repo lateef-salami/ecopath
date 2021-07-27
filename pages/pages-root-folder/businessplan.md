@@ -13,18 +13,18 @@ widgets:
   title: Gbenga Hussein, CFO
 - image: philip-ishaku.jpg
   title: Philip Ishaku, CTO
-- image: biodun-olanrewaju.jpg
-  title: "Biodun Olanrewaju, RSM in Ibadan, Oyo State"
 - image: dayo-oladele.jpg
-  title: "Dayo Oladele, RSM in Akure, Ondo State"
+  title: "Dayo Oladele, RSM in Aba, Abia State"
 - image: bode-onileowo.jpg
-  title: "Bode Onileowo, RSM in Ado Ekiti, Ekiti State"
+  title: "Bode Onileowo, RSM in Abuja, Nigeria's capital"
+- image: biodun-olanrewaju.jpg
+  title: "Biodun Olanrewaju, RSM in Lagos, the largest city"
 
 ---
 
 ### <a name="problem"></a> The problem
 
-Thousands of ink and toner cartridges are imported into Nigeria every year for use in education, healthcare, finance and other sectors. 
+Millions of ink and toner cartridges are imported into Nigeria every year for use in education, healthcare, finance and other sectors. 
 Since no cartridges are manufactured in Nigeria, the quality of those available for purchase is determined by the foreign exchange conditions. 
 The value of naira (NGN) against the US dollar (USD) has fallen fourfold since 2008, pushing the importers to purchase the cheapest options - often these are low quality cartridges from China that contain inks and toners hazardous to human health.
 
@@ -249,7 +249,7 @@ Our advisors are [Dr Karina Zile][7] and [Dr Eleftheria Egel][8].
 <div class="panel radius t20">
     <h5>Funding required</h5>
     <p>
-        Ink refilling machine imported from <a href="http://www.wako-janibis.co.jp/english/products.html" target="_blank">Wako</a>, our partners in Japan: JPY 700,000 (USD 6,358)<br>
+        Ink refilling machine imported from <a href="http://www.wako-janibis.co.jp/english/products.html" target="_blank">Wako</a>, our partners in Japan: USD 6,358<br>
         Raw materials imported from <a href="http://www.wako-janibis.co.jp/english/products.html" target="_blank">Wako</a> to produce 1,800 ink cartridges: USD 13,968<br>
         Freight, custom duties, import licence and documentation, port charges and insurance: USD 3,000<br>
         Fixed costs for the first year: USD 11,304<br>
@@ -352,14 +352,12 @@ To estimate the total revenue per month we will assume that 50% of the cartridge
         		<li style="list-style-type:none;">+ 67,837 of profit before tax</li>
         		<li style="list-style-type:none;">- 3,392 donated to charity (5% of profit)</li>
         		<li style="list-style-type:none;">Subtotal: USD 64,445</li>
-        		<li style="list-style-type:none;">- 19,334 of 20% corporate income tax</li>
+        		<li style="list-style-type:none;">- 19,334 of 30% corporate income tax</li>
         		<li style="list-style-type:none;"><b>Total: USD 45,111</b></li>
         </ul>
     </p>
 </div>
 
-
-134,940 - 13,494 - 9,420 - 44,189 
 
 ##### Further growth
 
