@@ -225,16 +225,16 @@ He is experienced in working with duplicators, photocopiers, printers and multi-
 He has been consulting Bluesky Digitech team in office equipment repairs and maintenance since 2012. 
 Due to his extensive experience, he is a bit of a celebrity among repair technicians.
 Many banks, schools and hospitals in Ondo and Osun states are among his current customers.
-He is Ecopath's regional sales manager (RSM) in South and South-east states.
+He is Ecopath's regional sales manager (RSM) in South East and South South states.
 
 **Bode Onileowo** has a background in Agricultural Economics.
 Since completing the apprenticeship at Bluesky Digitech in office equipment installation, maintenance and repairs, he has established an impressive professional network in Ekiti and Kwara states.
 Many banks and educational institutions are among his current customers.
-He is Ecopath's RSM in North and North-east states.
+He is Ecopath's RSM in North East and North Central states.
 
 **Biodun Olanrewaju** joined Bluesky Digitech as an apprentice in 2008.
 He has since developed a large customer base in Oyo, Ogun and Lagos states.
-He is Ecopath's RSM in South-west and North-west states.
+He is Ecopath's RSM in South West and North West states.
 
 
 The only thing that is missing in our team is gender diversity. 
