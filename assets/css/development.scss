@@ -1,0 +1,22 @@
+---
+sitemap:
+  exclude: true
+---
+@charset "utf-8";
+
+/** This set of SCSS is only included in the development environment **/
+
+@media print {
+	#navigation {
+		visibility: hidden;
+	}
+
+	#footer-content {
+		visibility: hidden;
+	}
+
+	@page {
+		size: A4; /* DIN A4 standard, Europe */
+		margin: 70px 30px; // Top&Bottom Left&Right
+	}
+}

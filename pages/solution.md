@@ -1,5 +1,6 @@
 ---
 layout: kz-page
+title: The problem
 header:
   title: ""
   image_fullwidth: main.jpg
@@ -15,7 +16,6 @@ widgets:
   text: By remanufacturing cartridges we will avoid emissions (including GHGs and black carbon) associated both with producing new cartridges and with disposal of used ones.
 
 ---
-### The problem
 
 Millions of ink and toner cartridges are imported into Nigeria every year for use in education, healthcare, finance and other sectors. 
 Since no cartridges are manufactured in Nigeria, the quality of those available for purchase is determined by the foreign exchange conditions. 
@@ -28,7 +28,7 @@ In both cases, once the cartridges are empty, they are disposed of together with
 Due to high calorific value of cartridges they are often open burnt (thus substituting expensive kerosene) to make fire for cooking and to encourage burning of other waste, thus contributing to air pollution and exposing humans to inhalation of toxic substances.
 
 
-### Our solution
+# Our solution
 
 Our solution is to create a circular economy for ink and toner cartridges in Nigeria. Our key activities are: 
 1. Retrieving used cartridges through buy back schemes and other incentives.
@@ -64,7 +64,7 @@ Additionally, we will be making a difference by:
   </li>
 </ol>
 
-With our work we will be directly contributing to 4 Sustainable Development Goals:
+With our work we will be directly contributing to 4 Sustainable Development Goals (SDGs) set by the UN:
 
 {% include _widget_grid_layout.html widgets=page.widgets articles_per_row=4 %}
 
