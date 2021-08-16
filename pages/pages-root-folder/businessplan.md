@@ -249,11 +249,11 @@ Our advisors are [Dr Karina Zile][7] and [Dr Eleftheria Egel][8].
 <div class="panel radius t20">
     <h5>Funding required</h5>
     <p>
-        Ink refilling machine imported from <a href="http://www.wako-janibis.co.jp/english/products.html" target="_blank">Wako</a>, our partners in Japan: USD 6,358<br>
-        Raw materials imported from <a href="http://www.wako-janibis.co.jp/english/products.html" target="_blank">Wako</a> to produce 1,800 ink cartridges: USD 13,968<br>
+        Ink refilling machine imported from <a href="http://www.wako-janibis.co.jp/english/products.html" target="_blank">Wako</a>, our partners in Japan: <a style="color:grey">USD 6,358 (already pre-paid)</a><br>
+        Raw materials imported from <a href="http://www.wako-janibis.co.jp/english/products.html" target="_blank">Wako</a> to produce 1,800 ink cartridges (initial payment is 60% of the total USD 13,968): USD 8,381<br>
         Freight, custom duties, import licence and documentation, port charges and insurance: USD 3,000<br>
-        Fixed costs for the first year: USD 11,304<br>
-        <b>Total: USD 34,630</b>
+        Miscellaneous expenses for logistics and to set up the workspace: USD 619<br>
+        <b>Total: USD 12,000</b>
     </p>
 </div>
 
@@ -301,7 +301,7 @@ We will also offer our duplicator ink cartridges directly to educational institu
 </div>
 
 <div class="panel radius">
-    <h5>Fixed costs per month:</h5>
+    <h5>Fixed costs per month by the end of the first year of operations:</h5>
     <p>
         Salaries: NGN 207,000 (USD 503.06)<br>
         Rent: NGN 120,000 (USD 292.10)<br>
@@ -322,7 +322,7 @@ To estimate the total revenue per month we will assume that 50% of the cartridge
 
 
 <div class="panel radius">
-    <h5>Monthly profit achieved by the end of the first year of operations (a pessimistic prediction)</h5>
+    <h5>Monthly profit achieved by the end of the first year of operations (a conservative forecast)</h5>
     <br>
     <p>
         Expenses:
@@ -363,7 +363,7 @@ To estimate the total revenue per month we will assume that 50% of the cartridge
 
 After the first year of operations we are expecting to continue growing our team and our market share.
 We will be working directly with the Government of Nigeria to facilitate adoption of remanufactured cartridges in government owned primary and secondary schools. 
-Once we gain a large portion of the market, that currently consists of 130,000 schools, our team will grow to about 150 employees and our revenue will be over USD 1 million per months.
+Once we gain a large portion of the market, that currently consists of 130,000 schools, our team will grow to about 150 employees and our revenue will be over USD 1 million per month.
 
 In terms of products, we initially aim to expand into photocopier cartridges, that are easy to refill, and printer cartridges, for which remanufacturing is more complicated.
 This will be accompanied by continuous market research to ensure that we are familiar with market trends for office equipment, new emerging technologies, and advancements in cartridge remanufacturing techniques.
