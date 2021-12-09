@@ -38,7 +38,7 @@ Used cartridges are cleaned, refilled with ink/toner, refitted with a new ink/to
 Our products do not add to the waste management burden on our clients, as we offer incentives and buy back schemes to retrieve used cartridges for remanufacturing.
 
 Our unique selling proposition:
-1. <b style="background-color: #00FFFF;">Lowest price</b> as our production costs are low. We use recovered empty cartridges (that would otherwise be landfilled or open burnt), import all components in bulk and outsource packaging production to a local company. 
+1. <b style="background-color: #00FFFF;">Great price</b> as our production costs are low. We use recovered empty cartridges (that would otherwise be landfilled or open burnt), import all components in bulk and outsource packaging production to a local company. 
 Price is often the most important factor driving cartridge purchasing decisions in Nigeria.
 2. <b style="background-color: #FF00FF;">Best quality</b> as we use reusable OEM components and imported components from high quality manufacturers.
 In Nigeria, locally made products are often perceived as inferior to imported products.
