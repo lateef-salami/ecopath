@@ -12,13 +12,16 @@ widgets:
 widgets2:
 - image: gbenga-hussein.jpg
   title: Gbenga Hussein, CFO
-  text: 'Gbenga is a chartered accountant and an associate member of the <a href="https://portal.citn.org/" target="_blank">Chartered Institute of Taxation of Nigeria</a>. He is an expert in financial management, strategy and change management. Gbenga worked with Sunflag Nigeria Limited, Haggai Mortgage Bank and Slava-Yeditepe Construction Group where he was the Head of Accounts. As a consultant, he has designed business development solutions for First Bank of Nigeria, Central Bank of Nigeria, Guaranty Trust Bank, and Stanbic IBTC Bank, to name a few.'
+  text: "Gbenga is a chartered accountant and an associate member of the Chartered Institute of Taxation of Nigeria. He is an expert in financial management, strategy and change management. Gbenga worked with Sunflag Nigeria Limited, Haggai Mortgage Bank and Slava-Yeditepe Construction Group where he was the Head of Accounts. As a consultant, he has designed business development solutions for First Bank of Nigeria, Central Bank of Nigeria, Guaranty Trust Bank, and Stanbic IBTC Bank, to name a few."
 - image: philip-ishaku.jpg
   title: Philip Ishaku, CTO
-  text: 'Philip Ishaku is an office equipment and automation professional with more than 15 years of experience. Philip’s academic background is in Electrical Engineering (Higher National Diploma from Federal Polytechnic, Mubi, Nigeria, 2001). He is experienced in working with duplicators, photocopiers, printers and multi-function printers, and with brands like Xerox, HP, Ricoh, Sharp and Kyocera.'
+  text: "Philip is an office equipment and automation professional with more than 15 years of experience. Philip's academic background is in Electrical Engineering (Higher National Diploma from Federal Polytechnic, Mubi, Nigeria, 2001). He is experienced in working with duplicators, photocopiers, printers and multi-function printers, and with brands like Xerox, HP, Ricoh, Sharp and Kyocera."
+- image: modupe.jpg
+  title: Modupe Omolola Taiwo, Sales and Marketing
+  text: "Modupe is a sales and marketing expert with 10+ years of experience with information and communication technologies in Nigeria. Modupe's academic background is in Banking and Finance (Higher National Diploma from Osun State College of Technology, Esa-Oke, Nigeria, 2000). She served as the head of marketing and sales at Idea konsult before founding Dominion tycoon in South West of Nigeria. A champion of girls in STEM, Modupe mentors young women in entrepreneurship and innovation."
 - image: dayo-oladele.jpg
   title: "Dayo Oladele, RSM in Aba, Abia State"
-  text: "Dayo Oladele has a background in Electrical Engineering. He has been consulting Bluesky Digitech team in office equipment repairs and maintenance since 2012.  Due to his extensive experience, he is a bit of a celebrity among repair technicians. Many banks, schools and hospitals in Ondo and Osun states are among his current customers. He is Ecopath's regional sales manager (RSM) in South East and South South states."
+  text: "Dayo has a background in Electrical Engineering. He has been consulting Bluesky Digitech team in office equipment repairs and maintenance since 2012.  Due to his extensive experience, he is a bit of a celebrity among repair technicians. Many banks, schools and hospitals in Ondo and Osun states are among his current customers. He is Ecopath's regional sales manager (RSM) in South East and South South states."
 - image: bode-onileowo.jpg
   title: "Bode Onileowo, RSM in Abuja, Nigeria's capital"
   text: "Bode Onileowo has a background in Agricultural Economics. Since completing the apprenticeship at Bluesky Digitech in office equipment installation, maintenance and repairs, he has established an impressive professional network in Ekiti and Kwara states. Many banks and educational institutions are among his current customers. He is Ecopath's RSM in North East and North Central states."
@@ -31,8 +34,10 @@ widgets2:
 
 ---
 
-### Lateef Salami, Founder and CEO
+<br/>
 {% include _widget_grid_layout.html widgets=page.widgets articles_per_row=3 %}
+
+### Lateef Salami, Founder and CEO
 
 **Lateef Salami**, the founder of Ecopath, has more than 15 years of experience in the office equipment industry in Nigeria.
 Lateef's academic background is in Electrical Engineering (Higher National Diploma from The Polytechnic in Ibadan, Nigeria, 2001) and Sustainability and Environmental Management (Master's degree from University of Derby, UK, 2019).
