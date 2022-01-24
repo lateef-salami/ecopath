@@ -1,9 +1,7 @@
 ---
 layout: kz-page
 title: Our team
-header: 
-  title: ""
-  image_fullwidth: main.jpg
+header: no
 permalink: /team/
 widgets:
 - image: lateef1.jpg

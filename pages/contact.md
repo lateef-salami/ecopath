@@ -8,7 +8,7 @@ permalink: /contact/
 
 ---
 
-* In person or by post:<br>
+* In person:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We are located in Lagos, Nigeria.
 
 * Via email:<br>

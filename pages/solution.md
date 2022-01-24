@@ -38,27 +38,27 @@ Used cartridges are cleaned, refilled with ink/toner, refitted with a new ink/to
 Our products do not add to the waste management burden on our clients, as we offer incentives and buy back schemes to retrieve used cartridges for remanufacturing.
 
 Our unique selling proposition:
-1. <b style="background-color: #00FFFF;">Great price</b> as our production costs are low. We use recovered empty cartridges (that would otherwise be landfilled or open burnt), import all components in bulk and outsource packaging production to a local company. 
+1. <b style="background-color: #BBC4A6;">Great price</b> as our production costs are low. We use recovered empty cartridges (that would otherwise be landfilled or open burnt), import all components in bulk and outsource packaging production to a local company. 
 Price is often the most important factor driving cartridge purchasing decisions in Nigeria.
-2. <b style="background-color: #FF00FF;">Best quality</b> as we use reusable OEM components and imported components from high quality manufacturers.
+2. <b style="background-color: #BBC4A6;">Best quality</b> as we use reusable OEM components and imported components from high quality manufacturers.
 In Nigeria, locally made products are often perceived as inferior to imported products.
 We will dispel this perception by providing samples. 
 Additionally, the fact that we import our ink from Japan, a country that is believed to produce the best quality raw materials and products, will boost customer confidence.
 All imports from Japan in Nigeria are of best quality because "back door" imports are not possible - all products imported from Japan go through pre-shipment verification and certification by [Standards Organisation of Nigeria (SON)][13] and their partners, such as [Cotecna][11] and [SGS][12]. 
-2. <b style="background-color: #FFFF00;">Non-toxic</b> inks and toners, as we chose our suppliers with care.
+2. <b style="background-color: #BBC4A6;">Non-toxic</b> inks and toners, as we chose our suppliers with care.
 We will import ink from [Wako][2], our partners in Japan, who use soya oil in manufacturing instead of petrochemicals. 
 Their ink samples are analysed in specialised laboratories to test for toxicity; a laboratory-issued certificate verifying the safety of the product is attached to every shipment.
 We will make copies of these certificates available to our customers, to compete with other compatible products that are usually not tested for toxicity to avoid extra costs.
-4. <b style="background-color: #00FFFF;">Zero waste to landfill</b> as we recover our cartridges from our customers to either remanufacture or recycle them with our local partner [Wecyclers][1]. According to our partners in Japan, the same cartridge can be remanufactured 5 times before the quality starts to decline. Our packaging will be plastic free. Most importantly, our business will contribute to significantly reducing open burning of cartridges and the associated detrimental effect on human health.
+4. <b style="background-color: #BBC4A6;">Zero waste to landfill</b> as we recover our cartridges from our customers to either remanufacture or recycle them with our local partner [Wecyclers][1]. According to our partners in Japan, the same cartridge can be remanufactured 5 times before the quality starts to decline. Our packaging will be plastic free. Most importantly, our business will contribute to significantly reducing open burning of cartridges and the associated detrimental effect on human health.
 
 Additionally, we will be making a difference by:
 <ol start="5">
   <li>
-    <b style="background-color: #FF00FF;">Building an inclusive and diverse team.</b>
+    <b style="background-color: #BBC4A6;">Building an inclusive and diverse team.</b>
     We will aim to have an equal number of male and female employees, and we will reserve 30% of our vacancies for people with disabilities.
   </li>
   <li>
-    <b style="background-color: #FFFF00;">Supporting local charities and educational institutions.</b>
+    <b style="background-color: #BBC4A6;">Supporting local charities and educational institutions.</b>
     Every month we will donate 5% of our profit.
     We want to support tertiary educational institutions to strengthen their research capacity and fund students from disadvantaged backgrounds, and Diabetic Association of Nigeria, as diabetes rates are surging in Nigeria and many cannot afford the treatment they need.
   </li>
