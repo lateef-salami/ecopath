@@ -17,9 +17,12 @@ widgets2:
 - image: modupe.jpg
   title: Modupe Omolola Taiwo, Sales and Marketing
   text: "Modupe is a sales and marketing expert with 10+ years of experience with information and communication technologies in Nigeria. Modupe's academic background is in Banking and Finance (Higher National Diploma from Osun State College of Technology, Esa-Oke, Nigeria, 2000). She served as the head of marketing and sales at Idea konsult before founding Dominion tycoon in South West of Nigeria. A champion of girls in STEM, Modupe mentors young women in entrepreneurship and innovation."
+- image: sidhartha.jpg
+  title: Sidhartha Mohanty, Sustainability and Growth
+  text: "Sidhartha is an entrepreneur passionate about sustainability. He is a coach at ClimateLaunchpad, part of Climate-KIC by European Institute of Innovation and Technology (EIT). Sidhartha holds an MBA, and he has completed a research fellowship at International Sustainability Academy (ISA) in Hamburg, Germany. He has cross-industry experience in sustainability, change management, digital strategies, financial services, PR and investor relations."
 - image: dayo-oladele.jpg
   title: "Dayo Oladele, RSM in Aba, Abia State"
-  text: "Dayo has a background in Electrical Engineering. He has been consulting Bluesky Digitech team in office equipment repairs and maintenance since 2012.  Due to his extensive experience, he is a bit of a celebrity among repair technicians. Many banks, schools and hospitals in Ondo and Osun states are among his current customers. He is Ecopath's regional sales manager (RSM) in South East and South South states."
+  text: "Dayo has a background in Electrical Engineering. He has been consulting Bluesky Digitech team in office equipment repairs and maintenance since 2012. Due to his extensive experience, he is a bit of a celebrity among repair technicians. Many banks, schools and hospitals in Ondo and Osun states are among his current customers. He is Ecopath's regional sales manager (RSM) in South East and South South states."
 - image: bode-onileowo.jpg
   title: "Bode Onileowo, RSM in Abuja, Nigeria's capital"
   text: "Bode Onileowo has a background in Agricultural Economics. Since completing the apprenticeship at Bluesky Digitech in office equipment installation, maintenance and repairs, he has established an impressive professional network in Ekiti and Kwara states. Many banks and educational institutions are among his current customers. He is Ecopath's RSM in North East and North Central states."
