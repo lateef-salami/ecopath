@@ -54,6 +54,8 @@ In 2019 Lateef moved to Germany to become a research fellow at the [Internationa
 There he learnt about best practices in sustainability and how to build impactful startups that contribute towards reaching Sustainable Development Goals (SDGs).
 That is where the idea for Ecopath was developed.
 
+Lateef is a member of Africa Circular Economy Network.
+
 {% include _widget_grid_layout.html widgets=page.widgets2 articles_per_row=3 %}
 
 
