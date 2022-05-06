@@ -8,6 +8,11 @@
   class: fa-whatsapp
   title: ""
 
+- name: LinkedIn
+  url: https://www.linkedin.com/company/ecopath-page/
+  class: fa-linkedin
+  title: ""
+
 - name: Facebook
   url: https://www.facebook.com/Ecopath-107842441580696
   class: fa-facebook
@@ -17,15 +22,6 @@
   url: https://twitter.com/Ecopath2
   class: fa-twitter
   title: ""
-
-- name: LinkedIn
-  url: https://www.linkedin.com/company/ecopath-page/
-  class: fa-linkedin
-  title: ""
-
-
-
-
 
 # - name: GitHub
 #   url: https://github.com/KarinaZile
