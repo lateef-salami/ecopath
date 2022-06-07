@@ -1,9 +1,9 @@
 ---
 layout: kz-page
-title: Contact us
+title:
 header: 
   title: ""
-  image_fullwidth: main.jpg
+  image_fullwidth: main-contact.jpg
 permalink: /contact/
 
 ---

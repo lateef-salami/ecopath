@@ -1,9 +1,9 @@
 ---
 layout: kz-page
-title: Our products
+title: 
 header:
   title: ""
-  image_fullwidth: main.jpg
+  image_fullwidth: main-products.jpg
 permalink: /products/
 widgets:
 - image: product1.jpg
