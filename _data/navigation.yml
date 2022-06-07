@@ -8,6 +8,9 @@
 - title: "Our solution"
   url: "/solution/"
   side: left
+- title: "Our products"
+  url: "/products/"
+  side: left
 - title: "Our team"
   url: "/team/"
   side: left
