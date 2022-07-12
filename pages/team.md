@@ -20,15 +20,15 @@ widgets2:
 - image: sidhartha.jpg
   title: Sidhartha Mohanty, Sustainability and Growth
   text: "Sidhartha is an entrepreneur passionate about sustainability. He is a coach at ClimateLaunchpad, part of Climate-KIC by European Institute of Innovation and Technology (EIT). Sidhartha holds an MBA, and he has completed a research fellowship at International Sustainability Academy (ISA) in Hamburg, Germany. He has cross-industry experience in sustainability, change management, digital strategies, financial services, PR and investor relations."
+- image: femi.jpg
+  title: "Oluwafemi Arilomo, RSM in Northern Nigeria"
+  text: "Oluwafemi Arilomo is a graduate of political sciences from The University of Abuja. He also holds a Higher National Diploma in marketing from The Polytechnic in Ibadan, and a Master’s degree in International Affairs and Strategic Studies. Oluwafemi is a member of Nigerian Institute of Management. He has over 15 years of experience in marketing. He is Ecopath's regional sales manager (RSM) in Northern Nigeria."
 - image: dayo-oladele.jpg
   title: "Dayo Oladele, RSM in Aba, Abia State"
-  text: "Dayo has a background in Electrical Engineering. He has been consulting Bluesky Digitech team in office equipment repairs and maintenance since 2012. Due to his extensive experience, he is a bit of a celebrity among repair technicians. Many banks, schools and hospitals in Ondo and Osun states are among his current customers. He is Ecopath's regional sales manager (RSM) in South East and South South states."
+  text: "Dayo has a background in Electrical Engineering. He has been consulting Bluesky Digitech team in office equipment repairs and maintenance since 2012. Due to his extensive experience, he is a bit of a celebrity among repair technicians. Many banks, schools and hospitals in Ondo and Osun states are among his current customers. He is Ecopath's RSM in South East and South South states."
 - image: bode-onileowo.jpg
   title: "Bode Onileowo, RSM in Abuja, Nigeria's capital"
   text: "Bode Onileowo has a background in Agricultural Economics. Since completing the apprenticeship at Bluesky Digitech in office equipment installation, maintenance and repairs, he has established an impressive professional network in Ekiti and Kwara states. Many banks and educational institutions are among his current customers. He is Ecopath's RSM in North East and North Central states."
-- image: biodun-olanrewaju.jpg
-  title: "Biodun Olanrewaju, RSM in Lagos, the largest city"
-  text: "Biodun Olanrewaju joined Bluesky Digitech as an apprentice in 2008. He has since developed a large customer base in Oyo, Ogun and Lagos states. He is Ecopath's RSM in South West and North West states."
 - image: team-join-us.jpg
   title: Join us!
   text: "We are looking for environmentally minded people to join our team. We especially encourage applications from women and people with disabilities."
