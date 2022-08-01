@@ -4,10 +4,9 @@ title: Our team
 header: no
 permalink: /team/
 widgets:
-- image: lateef1.jpg
-- image: lateef2.jpg
-- image: lateef3.jpg
-widgets2:
+- image: lateef.jpg
+  title: Lateef Salami, Founder and CEO
+  text: "Lateef has 19 years of experience in the office equipment industry in Nigeria. He studied Electrical Engineering at The Polytechnic, Ibadan. In 2008 Lateef started Bluesky Digitech, a for-purpose business focussed on office equipment repairs. He obtained an MSc in Environmental Management from University of Derby, UK in 2019. Afterwards he joined the International Sustainability Academy (ISA) in Germany as a research fellow. That is where the idea for Ecopath was developed."
 - image: gbenga-hussein.jpg
   title: Gbenga Hussein, CFO
   text: "Gbenga is a chartered accountant and an associate member of the Chartered Institute of Taxation of Nigeria. He is an expert in financial management, strategy and change management. Gbenga worked with Sunflag Nigeria Limited, Haggai Mortgage Bank and Slava-Yeditepe Construction Group where he was the Head of Accounts. As a consultant, he has designed business development solutions for First Bank of Nigeria, Central Bank of Nigeria, Guaranty Trust Bank, and Stanbic IBTC Bank, to name a few."
@@ -22,21 +21,23 @@ widgets2:
   text: "Sidhartha is an entrepreneur passionate about sustainability. He is a coach at ClimateLaunchpad, part of Climate-KIC by European Institute of Innovation and Technology (EIT). Sidhartha holds an MBA, and he has completed a research fellowship at International Sustainability Academy (ISA) in Hamburg, Germany. He has cross-industry experience in sustainability, change management, digital strategies, financial services, PR and investor relations."
 - image: femi.jpg
   title: "Oluwafemi Arilomo, RSM in Northern Nigeria"
-  text: "Oluwafemi Arilomo is a graduate of political sciences from The University of Abuja. He also holds a Higher National Diploma in marketing from The Polytechnic in Ibadan, and a Master’s degree in International Affairs and Strategic Studies. Oluwafemi is a member of Nigerian Institute of Management. He has over 15 years of experience in marketing. He is Ecopath's regional sales manager (RSM) in Northern Nigeria."
+  text: "Oluwafemi Arilomo is a graduate of political sciences from The University of Abuja. He also holds a Higher National Diploma in marketing from The Polytechnic in Ibadan, and a Master’s degree in International Affairs and Strategic Studies. Oluwafemi is a member of the Nigerian Institute of Management. He has over 15 years of experience in marketing. He is Ecopath's regional sales manager (RSM) in Northern Nigeria."
+- image: oyedeji.jpg
+  title: "Oyedeji Olaoluwa Wole, RSM in South-West"
+  text: "Oyedeji has a background in physics, electronics and computer science. He studied at Ajayi Crowther University. Previously he worked at CFAO, where he built capacity in office equipment maintenance, and Procter & Gamble, where he built capacity in manufacturing and autonomous maintenance."
+- image: tayo.jpg
+  title: "Tayo Adegoke, RSM in South-South and South-East"
+  text: "Tayo studied electronics at The Polytechnic, Ibadan. Previously he worked at Electro-hall (Sharp), where he built capacity in office equipment sales, maintenance and repair. He is an advocate for made-in-Nigeria goods and for Circular Economy."
 - image: dayo-oladele.jpg
   title: "Dayo Oladele, RSM in Aba, Abia State"
   text: "Dayo has a background in Electrical Engineering. He has been consulting Bluesky Digitech team in office equipment repairs and maintenance since 2012. Due to his extensive experience, he is a bit of a celebrity among repair technicians. Many banks, schools and hospitals in Ondo and Osun states are among his current customers. He is Ecopath's RSM in South East and South South states."
-- image: bode-onileowo.jpg
-  title: "Bode Onileowo, RSM in Abuja, Nigeria's capital"
-  text: "Bode Onileowo has a background in Agricultural Economics. Since completing the apprenticeship at Bluesky Digitech in office equipment installation, maintenance and repairs, he has established an impressive professional network in Ekiti and Kwara states. Many banks and educational institutions are among his current customers. He is Ecopath's RSM in North East and North Central states."
 - image: team-join-us.jpg
   title: Join us!
   text: "We are looking for environmentally minded people to join our team. We especially encourage applications from women and people with disabilities."
 
 ---
 
-<br/>
-{% include _widget_grid_layout.html widgets=page.widgets articles_per_row=3 %}
+<!-- {% include _widget_grid_layout.html widgets=page.widgets articles_per_row=3 %}
 
 ### Lateef Salami, Founder and CEO
 
@@ -54,9 +55,10 @@ In 2019 Lateef moved to Germany to become a research fellow at the [Internationa
 There he learnt about best practices in sustainability and how to build impactful startups that contribute towards reaching Sustainable Development Goals (SDGs).
 That is where the idea for Ecopath was developed.
 
-Lateef is a member of Africa Circular Economy Network.
+Lateef is a member of Africa Circular Economy Network. -->
 
-{% include _widget_grid_layout.html widgets=page.widgets2 articles_per_row=3 %}
+<br/>
+{% include _widget_grid_layout.html widgets=page.widgets articles_per_row=3 %}
 
 
 
