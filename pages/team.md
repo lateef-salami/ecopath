@@ -10,6 +10,9 @@ widgets1:
 - image: team-gbenga.jpg
   title: Gbenga Hussein, CFO
   text: "Gbenga is a chartered accountant and an associate member of the Chartered Institute of Taxation of Nigeria. He is an expert in financial management, strategy and change management. Gbenga worked with Sunflag Nigeria Limited, Haggai Mortgage Bank and Slava-Yeditepe Construction Group where he was the Head of Accounts. As a consultant, he has designed business development solutions for First Bank of Nigeria, Central Bank of Nigeria, Guaranty Trust Bank, and Stanbic IBTC Bank, to name a few."
+- image: team-olaoluwa.jpg
+  title: Olaoluwa Wole Oyedeji
+  text: "Oyedeji Olaoluwa Wole studied Electrical and Electronics Engineering at the Polytechnic Ibadan and computer science at Ajayi Crowther University. Olaoluwa interned with CFAO, and later worked at Procter and Gamble as an operation leader. He has earned certification by the Integrated Bureau for Engineering and Consultation (IBEC) Cairo on low voltage power distribution systems, Electrical safety  Autonomous Maintenance, Quality assurance, HSE, and many more."
 widgets2:
 - image: team-julia.jpg
   title: Julia Craighill
