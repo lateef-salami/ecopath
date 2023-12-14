@@ -19,11 +19,13 @@ widgets2:
   text: "Julia Craighill is currently the Chief Sustainability Officer at Green Business Bureau. Julia has a proven track record of creating measurable business value with sustainable practices, environmental stewardship, and social responsibility."
 - image: team-akeem.jpg
   title: Akeem Agbaje
+  text: "Akeem Agbaje is a consummate lawyer and a Senior Advocate of Nigeria, SAN. He is presently the Chief Executive Officer at ENTEC Power and Utility Company. Mr. Akeem Agbaje is also a managing partner at Agbaje and Co, a legal practitioner chamber in Ibadan, Nigeria. He is an expert in business growth and development, skilled in developing innovative strategies to increase market share."
 - image: team-kazeem.jpg
   title: Mr Kazeem Olaniyi Soyinka
   text: "Mr Kazeem Olaniyi Soyinka is a seasoned marketing management expert. He is a former Lecturer in Business Management/Marketing at The Federal Polytechnic Ilaro, Nigeria, and a member of The Nigerian Institute of Management. For 25 uninterrupted years, he was a Sales/ /Marketing Expert in Printing Solutions at the French /Japanese Conglomerate CFAO Nigeria PLC. Presently, he is the Chairman/CEO of Kyellow Hotel & Leisure Services Ltd Ibadan, Nigeria, Kyellow Agricultural Services Ltd Ibadan, Nigeria, and Oyin Integrated Trading & Merchandise Co Ltd Ibadan Nigeria."
 - image: team-sebastian.jpg
   title: Sebastian Frisch
+  text: "Sebastian Frisch is a senior specialist in waste management. He was the site Operations Manager and Interim manager at AXION Consulting. Sebastian was also the key account manager and process engineer at Dr. Pangenkopf Waste Management Process. He is the founder of GreenForest Gmbh and BlackForest Gmbh. He is a member of, Board of Directors at Landbell Greenforest Solutions and presently serves as head of international sales (Technical Consultant) at ALBA Group. Sebastian also offers consultancy services on Waste Information Management System Projects."
 ---
 
 {% include _widget_grid_layout.html widgets=page.widgets1 articles_per_row=3 %}
