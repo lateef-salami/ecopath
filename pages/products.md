@@ -13,4 +13,8 @@ widgets:
 ---
 
 {% include _widget_grid_layout.html widgets=page.widgets articles_per_row=2 %}
-
+<div class="row t10 b60">
+    <div class="small-6 text-center columns">
+        <a class="button large radius {{ page.callforaction.style }}" href="https://forms.gle/AV8JaYBBuiv4zzFU8">Provide feedback ></a>
+    </div>
+</div>
