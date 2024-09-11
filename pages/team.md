@@ -13,9 +13,9 @@ widgets1:
 - image: team-gbenga.jpg
   title: Gbenga Hussein, CFO
   text: "Gbenga is a chartered accountant and an associate member of the Chartered Institute of Taxation of Nigeria. He is an expert in financial management, strategy and change management. Gbenga worked with Sunflag Nigeria Limited, Haggai Mortgage Bank and Slava-Yeditepe Construction Group where he was the Head of Accounts. As a consultant, he has designed business development solutions for First Bank of Nigeria, Central Bank of Nigeria, Guaranty Trust Bank, and Stanbic IBTC Bank, to name a few."
-- image: team-aminat.jpg
-  title: Aminat Adebayo, Sustainability and Media Promotion
-  text: "Passionate environmental advocate, Aminat Adebayo leverages her expertise to drive change. As a former Planetary Health Alliance ambassador, she founded a university club, co-authored a children's climate change book, and now leads the Western Africa Hub. Aminat's research (5+ publications) and presentations at prestigious conferences (Harvard University , University of Eldoret, Kenya) showcase her depth of knowledge. Beyond research, she empowers communities through projects like educating 200+ youth on environmental sustainability and media appearances (Naija FM, NTA). Recently graduated from the University of Ibadan, Aminat seeks opportunities to make a lasting impact on environmental sustainability."
+- image: team-taiwo.jpg
+  title: Taiwo Akande, Sustainability and Media Promotion
+  text: "Taiwo Akande is a graduate of Sociology and Anthropology from Obafemi Awolowo University and an enthusiastic environmental advocate with 3 years of experience in climate action and environmental sustainability. Through her experience with Plogging Nigeria, she has co-tutored over 1600 people across 14 countries on ecological sustainability. Her passion for environmental sustainability has made her develop an interest in circular economy and proper waste management."
 widgets2:
 - image: team-julia.jpg
   title: Julia Craighill

@@ -9,7 +9,9 @@ widgets:
 - image: product1.jpg
   title: Janibis Eco-friendly digital duplicator ink
   text: For Riso duplicators RS-RZ-EZ-SF Series
-
+- image: 
+  title: "Feedback:"
+  text: "<b>Good</b> - Afe Babalola University Ado-Ekiti<br><b>It is good and efficient</b> - The International School, University of Ibadan<br><b>Very effective</b> - University of Benin<br><b>Perfect</b> - Delta State Polytechnic, Otefe-Oghara<br><b>Satisfactory</b> - Achievers University"
 ---
 
 {% include _widget_grid_layout.html widgets=page.widgets articles_per_row=2 %}
