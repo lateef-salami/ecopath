@@ -7,9 +7,9 @@ widgets1:
 - image: team-lateef.jpg
   title: Lateef Salami, CEO
   text: "Lateef has 19 years of experience in the office equipment industry in Nigeria. He studied Electrical Engineering at The Polytechnic, Ibadan. In 2008 Lateef started Bluesky Digitech, a for-purpose business focussed on office equipment repairs. He obtained an MSc in Environmental Management from University of Derby, UK in 2019. Afterwards he joined the International Sustainability Academy (ISA) in Germany as a research fellow. That is where the idea for Ecopath was developed."
-- image: team-olaoluwa.jpg
-  title: Olaoluwa Oyedeji, CTO
-  text: "Oyedeji Olaoluwa Wole studied Electrical and Electronics Engineering at the Polytechnic Ibadan and computer science at Ajayi Crowther University. Olaoluwa interned with CFAO, and later worked at Procter and Gamble as an operation leader. He has earned certification by the Integrated Bureau for Engineering and Consultation (IBEC) Cairo on low voltage power distribution systems, Electrical safety  Autonomous Maintenance, Quality assurance, HSE, and many more."
+- image: team-oshiobugie.jpg
+  title: Oshiobugie Sunday, CTO
+  text: "Fed Poly Idah (Elect/Elect). NYSC @ St Mary secondary school Ifitedunu Anambra state. Professional certificate in management (Nigeria Institute of Management) Diploma in computer Hardware Repairs University of Port Harcourt. Work experience: Work @ Xerox HS Ltd (Field Engr). Romarong Nig Ltd (Trained Riso Repair/Maintenance). Head of Technical Dept Vertical Ventures Ltd. Senrox Services."
 - image: team-gbenga.jpg
   title: Gbenga Hussein, CFO
   text: "Gbenga is a chartered accountant and an associate member of the Chartered Institute of Taxation of Nigeria. He is an expert in financial management, strategy and change management. Gbenga worked with Sunflag Nigeria Limited, Haggai Mortgage Bank and Slava-Yeditepe Construction Group where he was the Head of Accounts. As a consultant, he has designed business development solutions for First Bank of Nigeria, Central Bank of Nigeria, Guaranty Trust Bank, and Stanbic IBTC Bank, to name a few."
