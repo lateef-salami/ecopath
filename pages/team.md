@@ -10,9 +10,9 @@ widgets1:
 - image: team-gbenga.jpg
   title: Gbenga Hussein, CFO
   text: "Gbenga is a chartered accountant and an associate member of the Chartered Institute of Taxation of Nigeria. He is an expert in financial management, strategy and change management. Gbenga worked with Sunflag Nigeria Limited, Haggai Mortgage Bank and Slava-Yeditepe Construction Group where he was the Head of Accounts. As a consultant, he has designed business development solutions for First Bank of Nigeria, Central Bank of Nigeria, Guaranty Trust Bank, and Stanbic IBTC Bank, to name a few."
-- image: team-oshiobugie.jpg
-  title: Oshiobugie Sunday, CTO
-  text: "Fed Poly Idah (Elect/Elect). NYSC @ St Mary secondary school Ifitedunu Anambra state. Professional certificate in management (Nigeria Institute of Management) Diploma in computer Hardware Repairs University of Port Harcourt. Work experience: Work @ Xerox HS Ltd (Field Engr). Romarong Nig Ltd (Trained Riso Repair/Maintenance). Head of Technical Dept Vertical Ventures Ltd. Senrox Services."
+- image: team-jude.jpg
+  title: Jude Isichei, CTO
+  text: "Jude, a consummate technical manager and administrator, had working experience with CFAO Technologies, started as a service engineer and rising to the position of Assistant Workshop Engineer. He has profound sales and services experience in several office equipment and printer devices. Jude is a staunch believer in sustainability and circular economy as a tool for developing economy to &quot; hack the future &quot;. He holds a Bachelor's degree in Electrical/Electronics Engineering and a postgraduate diploma in marketing from the Delta State University. Jude brings to the team enormous passion and enthusiasm."
 - image: team-bolawa.jpg
   title: Bolawa Abigeal,Business Development Officer
   text: "Olasupo Bolawa Abigeal,  a first class graduate of Agricultural Economy, very passionate about climate actions, with strong interest in waste management. Bolawa has a strong academic background and practical experience in sustainability generally. Bolawa as a student had contributed towards several eco-friendly activities on campus including community outreach programs and policy advocacy."
