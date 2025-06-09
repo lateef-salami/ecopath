@@ -5,8 +5,6 @@ header:
   image_fullwidth: main.jpg
 permalink: /index.html
 homepage: true
-teaser: 'At Ecopath we are developing a circular economy for photocopier, printer and duplicator cartridges in Nigeria. Our mission is to provide affordable and eco-friendly ink and toner cartridges to advance industries with high demand for printouts (education, healthcare, etc.) while also reducing the amount of plastic waste generated. Remanufacturing cartridges sounds like a simple idea, but until now it has not been done anywhere in West Africa. <br/> <br/> Our unique value proposition: <br/><code class="language-plaintext: highlighter-rouge">Great price</code> as we use recovered empty cartridges and import all components in bulk. <br/><code class="language-plaintext: highlighter-rouge">Best quality</code> as we use reusable OEM components and imported components from high quality manufacturers.<br/><code class="language-plaintext: highlighter-rouge">Non-toxic</code> inks and toners as we import them from high quality manufacturers in Japan. <br/><code class="language-plaintext: highlighter-rouge">Zero waste</code> to landfill as we recover our cartridges from our customers to either remanufacture or recycle them.'
-
 widgets1:
 - url: https://www.isa-germany.com
   image: logo-isa.jpg
@@ -30,6 +28,20 @@ widgets2:
   title: Wecyclers
 
 ---
+
+At Ecopath we are developing a circular economy for photocopier, printer and duplicator cartridges in Nigeria. Our mission is to provide affordable and eco-friendly ink and toner cartridges to advance industries with high demand for printouts (education, healthcare, etc.) while also reducing the amount of plastic waste generated. Remanufacturing cartridges sounds like a simple idea, but until now it has not been done anywhere in West Africa. 
+
+<center>
+<h4>By June 2025 we've collected <code class="language-plaintext: highlighter-rouge">1833</code> empty cartridges for re-remanufacturing!</h4>
+</center>
+
+<br>
+Our unique value proposition:  
+<code class="language-plaintext: highlighter-rouge">Great price</code> as we use recovered empty cartridges and import all components in bulk.  
+<code class="language-plaintext: highlighter-rouge">Best quality</code> as we use reusable OEM components and imported components from high quality manufacturers.  
+<code class="language-plaintext: highlighter-rouge">Non-toxic</code> inks and toners as we import them from high quality manufacturers in Japan.  
+<code class="language-plaintext: highlighter-rouge">Zero waste</code> to landfill as we recover our cartridges from our customers to either remanufacture or recycle them.
+
 
 <center><a href="https://youtu.be/PD9e3-TxeE0"><img alt="" src="/images/product1-video.jpg"></a></center>
 
