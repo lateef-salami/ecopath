@@ -32,7 +32,7 @@ widgets2:
 At Ecopath we are developing a circular economy for photocopier, printer and duplicator cartridges in Nigeria. Our mission is to provide affordable and eco-friendly ink and toner cartridges to advance industries with high demand for printouts (education, healthcare, etc.) while also reducing the amount of plastic waste generated. Remanufacturing cartridges sounds like a simple idea, but until now it has not been done anywhere in West Africa. 
 
 <center>
-<h4>By June 2025 we've collected <code class="language-plaintext: highlighter-rouge">1833</code> empty cartridges for re-remanufacturing!</h4>
+<h4>By June 2025 we've collected <code class="language-plaintext: highlighter-rouge">1833</code> empty cartridges for re-manufacturing!</h4>
 </center>
 
 <br>
