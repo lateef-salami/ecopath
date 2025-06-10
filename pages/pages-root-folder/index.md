@@ -6,16 +6,19 @@ header:
 permalink: /index.html
 homepage: true
 widgets1:
+- url: https://www.gfs.earth/
+  image: logo-gfs.jpg
+  title: GreenForest Solutions, Circularity-as-a-Service (CaaS)
 - url: https://www.isa-germany.com
   image: logo-isa.jpg
   title: International Sustainability Academy (ISA)
-- url: https://net.nbte.gov.ng/
+- url: https://web.nbte.gov.ng/
   image: logo-nbte.jpg
   title: National Board for Technical Education
 - url: https://cvcnigeria.org/
   image: logo-cvc.jpg
   title: Committee of Vice-Chancellors of Nigerian Universities
-- url: https://qwc.com.ng/
+- url: https://qwfn.org/
   image: logo-queentrepreneur.jpg
   title: Queentrepreneur Women's Foundation
 
