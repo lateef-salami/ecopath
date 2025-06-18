@@ -1,6 +1,6 @@
 ---
 layout: kz-page
-title: The problem
+title: ""
 header:
   title: ""
   image_fullwidth: main.jpg
@@ -16,6 +16,8 @@ widgets:
   text: By remanufacturing cartridges we will avoid emissions (including GHGs and black carbon) associated both with producing new cartridges and with disposal of used ones.
 
 ---
+
+# The problem
 
 Millions of ink and toner cartridges are imported into Nigeria every year for use in education, healthcare, finance and other sectors. 
 Since no cartridges are manufactured in Nigeria, the quality of those available for purchase is determined by the foreign exchange conditions. 
