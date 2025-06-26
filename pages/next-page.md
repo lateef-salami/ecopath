@@ -1,50 +1,62 @@
 ---
 layout: kz-page
-title: ""
-header:
+title: "The next page"
+header: 
   title: ""
   image_fullwidth: main.jpg
 permalink: /next-page/
 
 ---
 
-# What we've achieved so far
+### What we've achieved so far
 
-Collected 1833 empties. And what will you do with them? are you going to remanufacture them now?
+Our eco-friendly Janibis ink cartridges have been purchased by 115 educational institutions in South West Nigeria. 
+As of June 2025 we've collected 1833 empty Janibis cartridges for re-manufacturing at our mini-factory in Ibadan. 
 
-Memorandum of Understanding (MOU) that encourages schools to buy from Ecopath - tell me more. How many educational institutions does that include?
+We have signed Memorandums of Understanding (MOUs) with the [Committee of Vice-Chancellors of Nigerian Universities (CVCNU)](https://cvcnigeria.org/), representing 274 universities in the country, and with the [National Board for Technical Education (NBTE)](https://web.nbte.gov.ng/), representing 805 Technical and Vocational Education and Training institutions (TVETs) such as monotechnics, polytechnics and specialized colleges. 
+We've established cooperation with 110 unity schools (federal government colleges) and 200 colleges of education. 
+These relationships are based on Ecopath providing eco-friendly solutions to address the printing needs of the education sector. 
 
-How many educational instituttions have bought Janibis cartridges from you so far?
-
-What else can we mention in this section?
-
-
-# Next page
-
-Growing in 3 directions to offer ful printing solution. [I'll phrase it well later.]
+The next pages of Ecopath story will see us grow in two major directions. 
+First, we are expanding our range of eco-friendly products for printing devices. 
+Second, we are developing a program to use broken printers and photocopiers to grow the skillset of the next generation. 
 
 
+### 1. Expanding our range of eco-friendly products
 
-### 1. Expanding the range of products Ecopath offers. [I'll name it better later.]
+We built Ecopath to provide eco-friendly printing solutions. 
+As a proof of concept, we started with Janibis ink cartridges and demonstrated that there is a substantial interest in eco-friendly printing products, at least in the education sector. 
+More than 100 educational institutions have become customers, despite us not being able to provide a comprehensive printing solution. 
 
-Our customers need a printing solution. As a proof of concept we offer Janibis cartridges - and already we have customers, even though we don't solve their problem. The bottleneck to growth is being able to solve our customer's problem, for that we need HP cartridges, master/stencil, printer fixing services, etc.
+To expand our market share, and hence our environmental impact, we are working towards adding HP and Sharp compatible toner cartridges and master stencil to our product range. 
+These, in addition to Janibis ink cartridges that we already offer, will constitute a complete printing solution for many educational institutions. 
 
-Import sustainable HP and Sharp toner cartridges (not OEM, compatible). many companies import HP cartridges, but not sustainable. we could resell what others have imported, but that doesn't align with our sustainability mission.
+**We are looking to partner with producers of sustainable HP and Sharp compatible toner cartridges to import them into Nigeria.** 
+For us sustainable means non-toxic toner powder, high yield per cartridge and easy-to-recycle packaging. 
+Cartridges that could be refilled multiple times before end of life would be ideal. 
+We have not seen HP or Sharp compatible toner cartridges that satisfy our sustainability criteria in Nigeria, hence the need to import. 
+To be financially sustainable too, we aim to offer the highest yield cartridges at slightly higher prices, thus being price competitive on per-page basis.
 
-What's sustainable - type of toner powder,, increased yield, packaging.
+We are planning to import master stencil in large rolls to package it locally, which will allow us to use local sustainable packaging materials and to tailor the amount to the needs of our customers.
 
-price compatitive on per page basis.
-
-How would HP/Sharp empties be processed? will you collect them? what will you do with them?
-
-Master/stencil we have to sell. Any sustainability considerations here?
-
-**We are looking for partners for the next step:**
-* supplier of sharp/hp cartridges?
-* who else do you need and want to publicly list here?
+We will be collecting empty toner cartridges, just like we do right now with ink cartridges. 
+We are exploring options for refilling toner cartridges to avoid unnecessary waste. 
+To deal with printing cartridges that have reached their end of life, our ambition is to establish Nigeria's first printing cartridge recycling facility. 
+**We are looking for partners interested in helping us to do this.**
 
 
-### 2. Fixing printing equipment that doesn't work (refurbishment) [I'll name it better later.]
+
+### 2. Growing the skillset of the next generation
+
+<!-- 
+printer fixing services, etc.
+
+ also printer devices maintenance and repair services, etc.
+
+Fixing printing equipment that doesn't work (refurbishment) [I'll name it better later.]
+
+including first step of starting to teach students how to fix printers that currently don't work, and then in the future also dealing with printers that can't be fixed (e-waste).
+
 
 Nigeria is so wasteful. Anything broken is trashed. Fix it with skills development. We would train students to fix printing equipment in college/polytechnic. We build a circular economy hub. Government themselves established lack of skill as a problem.
 
@@ -64,20 +76,10 @@ Any tentative partners we can mention already?
 * educational institutions?
 * who else do you need and want to publicly list here?
 
-
-### 3. disposal of what cannot be fixed (e-waste) [I'll name it better later.]
+disposal of what cannot be fixed (e-waste)
 
 Tell me more. Where would this e-waste go? If you just pass it on to an organisation that deals with e-waste, what value does Ecopath bring? 
 
 What is currently done with the broken printin equipment? What does informal sector do? 
 
-
-**We are looking for partners for the next step:**
-* ?
-
-We should probably also include funding needs for each of the 3 growth directions listed. Giving an order of magnitude nummbers would be useful. Something like "20,000 USD equivalent would allow us to build a big programm, but we could also start with 500 USD to pilot it in one college." Probably better the other way "To pilot it in one college we are looking for 500 USD funding, but ideally 20,000 USD would allow us do big things". Add funding requests? If so, in USD for convenience of those who don't speak naira? And naira values in brackets?
-
-
-
-
-
+ -->

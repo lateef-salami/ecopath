@@ -14,10 +14,10 @@ widgets1:
   title: International Sustainability Academy (ISA)
 - url: https://web.nbte.gov.ng/
   image: logo-nbte.jpg
-  title: National Board for Technical Education
+  title: National Board for Technical Education (NBTE)
 - url: https://cvcnigeria.org/
   image: logo-cvc.jpg
-  title: Committee of Vice-Chancellors of Nigerian Universities
+  title: Committee of Vice-Chancellors of Nigerian Universities (CVCNU)
 - url: https://qwfn.org/
   image: logo-queentrepreneur.jpg
   title: Queentrepreneur Women's Foundation
