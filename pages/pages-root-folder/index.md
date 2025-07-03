@@ -6,21 +6,21 @@ header:
 permalink: /index.html
 homepage: true
 widgets1:
+- url: https://prevent-waste.net/
+  image: logo-prevent.jpg
+  title: PREVENT Waste Alliance
 - url: https://www.gfs.earth/
   image: logo-gfs.jpg
   title: GreenForest Solutions, Circularity-as-a-Service (CaaS)
-- url: https://www.isa-germany.com
-  image: logo-isa.jpg
-  title: International Sustainability Academy (ISA)
 - url: https://web.nbte.gov.ng/
   image: logo-nbte.jpg
   title: National Board for Technical Education (NBTE)
 - url: https://cvcnigeria.org/
   image: logo-cvc.jpg
   title: Committee of Vice-Chancellors of Nigerian Universities (CVCNU)
-- url: https://qwfn.org/
-  image: logo-queentrepreneur.jpg
-  title: Queentrepreneur Women's Foundation
+- url: https://www.isa-germany.com
+  image: logo-isa.jpg
+  title: International Sustainability Academy (ISA)
 
 widgets2:
 - url: http://www.wako-janibis.co.jp/index.html
