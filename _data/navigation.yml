@@ -11,6 +11,9 @@
 - title: "Our products"
   url: "/products/"
   side: left
+- title: "Next page"
+  url: "/next-page/"
+  side: left
 - title: "Our team"
   url: "/team/"
   side: left
