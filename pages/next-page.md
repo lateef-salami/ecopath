@@ -41,7 +41,7 @@ We are planning to import master stencil in large rolls to package it locally, w
 
 We will be collecting empty toner cartridges, just like we do right now with ink cartridges. 
 We are exploring options for refilling toner cartridges to avoid unnecessary waste. 
-To deal with printing cartridges that have reached their end of life, our ambition is to establish Nigeria's first printing cartridge recycling facility. 
+To deal with printing cartridges that have reached their end of life, our ambition is to establish Nigeria's first printing cartridge recycling facility, which will enable us to fulfil the Producer Responsibility Organisation (PRO) function for the printing solutions we offer. 
 **We are looking for partners interested in helping us to do this.**
 
 
