@@ -15,7 +15,7 @@ As of June 2025 we've collected 1833 ink cartridges (Riso) for re-manufacturing 
 
 We have signed Memoranda of Understanding (MOUs) with the [Committee of Vice-Chancellors of Nigerian Universities (CVCNU)](https://cvcnigeria.org/), representing 274 universities in the country, and with the [National Board for Technical Education (NBTE)](https://web.nbte.gov.ng/), representing 805 Technical and Vocational Education and Training institutions (TVETs) such as monotechnics, polytechnics and specialized colleges. 
 We've established cooperation with 110 unity schools (federal government colleges) and 200 colleges of education. 
-We are currently discussing partnership opportunities with the Association of International School Educators of Nigeria, AISEN (116 schools). 
+We are currently discussing partnership opportunities with the Association of International School Educators of Nigeria (AISEN), 116 schools. 
 These relationships are based on Ecopath providing eco-friendly solutions to address the printing needs of the education sector. 
 
 The next pages of Ecopath story will see us grow in two major directions. 
@@ -36,7 +36,7 @@ These, in addition to Janibis ink cartridges that we already offer, will constit
 For us sustainable means non-toxic toner powder, high yield per cartridge and packaging that is easy-to-reuse and ultimately to recycle.
 Cartridges that could be refilled multiple times before end of life would be ideal. 
 We have not seen HP or Sharp compatible toner cartridges that satisfy our sustainability criteria in Nigeria, hence the need to import. 
-To be financially sustainable we are commited to being price competitive on per-page basis; while higher yield per cartridge will probably mean higher per-cartridge prices.
+To be financially sustainable we are committed to being price competitive on per-page basis; while higher yield per cartridge will probably mean higher per-cartridge prices.
 
 We are planning to import master stencil in large rolls to package it locally, which will allow us to use local sustainable packaging materials and to tailor the amount to the needs of our customers.
 
