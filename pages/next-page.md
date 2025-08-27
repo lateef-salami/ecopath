@@ -11,15 +11,16 @@ permalink: /next-page/
 ### What we've achieved so far
 
 Our eco-friendly Janibis ink cartridges have been purchased by 115 educational institutions in South West Nigeria. 
-As of June 2025 we've collected 1833 empty Janibis cartridges for re-manufacturing at our mini-factory in Ibadan. 
+As of June 2025 we've collected 1833 ink cartridges (Riso) for re-manufacturing at our mini-factory in Ibadan. 
 
 We have signed Memoranda of Understanding (MOUs) with the [Committee of Vice-Chancellors of Nigerian Universities (CVCNU)](https://cvcnigeria.org/), representing 274 universities in the country, and with the [National Board for Technical Education (NBTE)](https://web.nbte.gov.ng/), representing 805 Technical and Vocational Education and Training institutions (TVETs) such as monotechnics, polytechnics and specialized colleges. 
 We've established cooperation with 110 unity schools (federal government colleges) and 200 colleges of education. 
+We are currently discussing partnership opportunities with the Association of International School Educators of Nigeria, AISEN (116 schools). 
 These relationships are based on Ecopath providing eco-friendly solutions to address the printing needs of the education sector. 
 
 The next pages of Ecopath story will see us grow in two major directions. 
 First, we are expanding our range of eco-friendly products for printing devices. 
-Second, we are developing a program to use broken printers and photocopiers to grow the skill set of the next generation. 
+Second, we are developing a program to refurbish broken printers and photocopiers while growing the skill set of the next generation. 
 
 
 ### 1. Expanding our range of eco-friendly products
@@ -31,8 +32,8 @@ More than 100 educational institutions have become customers, despite us not bei
 To expand our market share, and hence our environmental impact, we are working towards adding HP and Sharp compatible toner cartridges and master stencil to our product range. 
 These, in addition to Janibis ink cartridges that we already offer, will constitute a complete printing solution for many educational institutions. 
 
-**We are looking to partner with producers of sustainable HP and Sharp compatible toner cartridges to import them into Nigeria.** 
-For us sustainable means non-toxic toner powder, high yield per cartridge and easy-to-recycle packaging. 
+**We are looking to partner with producers of sustainable HP and Sharp compatible toner cartridges to source as components into Nigeria and locally assemble.** 
+For us sustainable means non-toxic toner powder, high yield per cartridge and packaging that is easy-to-reuse and ultimately to recycle.
 Cartridges that could be refilled multiple times before end of life would be ideal. 
 We have not seen HP or Sharp compatible toner cartridges that satisfy our sustainability criteria in Nigeria, hence the need to import. 
 To be financially sustainable we are commited to being price competitive on per-page basis; while higher yield per cartridge will probably mean higher per-cartridge prices.
@@ -51,11 +52,12 @@ To deal with printing cartridges that have reached their end of life, our ambiti
 Ink and toner cartridges are only part of the story, as printers and photocopiers do the job. 
 From our observations (not an official study) in educational institutions there are two broken printers/photocopiers for every working one. 
 While electronic waste (e-waste) is an environmental challenge, we see an opportunity. 
-Many of these devices can be fixed, and what's more they could be fixed by the university/college students, who would learn both skills and a new mindset in the process.
+Many of these devices can be fixed and offered a new life. 
+What's more they could be fixed by the university/college students, who would learn both skills and a new mindset in the process.
 
 We are developing a program to teach students how to assess broken printers/photocopiers and how to refurbish those that can be. 
 Ecopath will provide warranties for every fixed device, so that for universities this will be no different from importing refurbished devices from abroad.
-**We are looking for educational institutions in South West Nigeria interested in developing such a program together with Ecopath.**
+**We are looking for tertiary educational institutions nationwide interested in developing such a program together with Ecopath.**
 
 Our vision for the future is to expand this program into Circular Economy Hubs located inside educational institutions. 
 These could be student run to engage not just those willing to learn how to fix electronics, but also those studying management, marketing, accounting, etc.
